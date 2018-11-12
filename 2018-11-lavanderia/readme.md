@@ -10,27 +10,27 @@ Além de economizar valioso espaço em nossos compactos apartamentos, a  lavande
 
 Seguem algumas características da lavanderia:
 
-- O condomínio paga custo mensal, proporcional à quantidade de equipamentos alocados.
-- Atualmente há disponíveis 2 máquinas de lavar e 2 máquinas de secar.
+- O condomínio paga ao fornecedor um custo mensal, proporcional à quantidade de equipamentos alocados.
+- Atualmente estão sendo alugadas pelo condomínio 2 máquinas de lavar e 2 máquinas de secar.
 - O ciclo de uma lavagem dura 45 minutos e o de secagem 90 minutos em média.
-- O horário de funcionamento é de 6 até 23 horas.
+- O horário de funcionamento da lavanderia é de 6 até 23 horas.
 
 Multiplicando-se os equipamentos disponíveis pela quantidade de horas de funcionamento, concluímos que temos à disposição dos condôminos os seguintes totais de serviços de lavanderia:
 
-- xx horas de lavagem
+- xx horas de lavagem (confirmar os dados)
 - yy horas de secagem
 
-Ocorre que há horários de congestionamento na lavanderia, em que chegam mais condôminos do que permite a capacidade instantânea da lavanderia. Nesse caso, estabelece-se uma fila que é informalmente administrada pelos condôminos. 
+Ocorre que há horários de congestionamento na lavanderia, em que chegam mais condôminos do que permite a capacidade  da lavanderia. Nesse caso, cria-se uma fila informalmente administrada pelos condôminos. 
 
-Este projeto pretende criar condições para se otimizar a utilização da lavanderia do condomínio Recreio das Canoas, evitando as filas e melhorando a experiência dos condôminos na utilização desses serviços.
+Este projeto pretende criar condições para se otimizar a utilização da lavanderia do condomínio Recreio das Canoas. Com isso, espera-se evitar as filas e melhorar a experiência dos condôminos na utilização dos serviços de lavagem e secagem de roupa.
 
 ### Diagrama do Conflito
 
-Para se estabelecer a linha de ação do projeto, é vital se estabelecer um diagrama que permite a análise detalhada do conflito. Ele deve possuir um objetivo e dois requisitos que possuam pré-requisitos conflitantes, como mostra a figura a seguir:
+Para se estabelecer a linha de ação do projeto, é vital se estabelecer um diagrama que permite a análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um objetivo e dois requisitos que possuam pré-requisitos conflitantes, como mostra a figura a seguir:
 
 ![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
-No caso da lavanderia do Recreio das Canoas, podemos identificar o conflito descrito na tabela abaixo:
+No caso da lavanderia do Recreio das Canoas, podemos identificar o conflito descrito abaixo:
 
 | **CONFLITO**     | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |  
