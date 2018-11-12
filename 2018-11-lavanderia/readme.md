@@ -34,18 +34,18 @@ No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 
 | **CONFLITO**     | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |  
-| Objetivo         | Eficiência |  Deseja-se um bom serviço a custos razoáveis. |
+| Objetivo         | Lavanderia eficiente |  Deseja-se um bom serviço a custos razoáveis. |
 | Requisito 1      | Baixo custo | Condomínio deve pagar pouco custo fixo.  |  
-| Pré 1            | Alugar poucas máquinas |  Evitar altos custos, minimizando a quantidade de equipamentos alugados. |  
+| Pré 1            | Alugar poucas máquinas |  Minimizar a quantidade de equipamentos alugados. |  
 | Requisito 2      | Alta disponibilidade  |  Condômino deve ter uma máquina livre para uso. |  
 | Pré 2            | Alugar muitas máquinas |  Evitar filas, colocando mais equipamentos à disposição. |    
 
 
-| **CONFLITO**     | **Nome**         | **Descrição**          |  
-| :---             |     :---:        |          :---:         |  
-| Objetivo         | Lavar/secar roupa |  descrição do objetivo |
-| Requisito 1      | nome do objetivo |  descrição do objetivo |  
-| Pré 1            | nome do objetivo |  descrição do objetivo |  
-| Requisito 2      | nome do objetivo |  descrição do objetivo |  
-| Pré 2            | nome do objetivo |  descrição do objetivo |    
+| **CONFLITO**     | **Nome**          | **Descrição**           |  
+| :---             |     :---:         |          :---:          |  
+| Objetivo         | Lavar/secar roupa |  descrição do objetivo  |
+| Requisito 1      | nome do requisito |  descrição do requisito |  
+| Pré 1            | nome do requisito |  descrição do requisito |  
+| Requisito 2      | nome do requisito |  descrição do requisito |  
+| Pré 2            | nome do requisito |  descrição do requisito |    
 
