@@ -50,13 +50,6 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | p2               | **Alugar mais é solução?** |  Buscar alternativas para maior disponibilidade. | 
 | c                | **Mais ou menos máquinas** |  Conflito real, impossível aumentar e diminuir ao mesmo tempo. | 
 
-| **CONFLITO**     | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
-| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
-| Requisito 1      | **nome do requisito** |  descrição do requisito |  
-| Pré 1            | **nome do requisito** |  descrição do requisito |   
-| Requisito 2      | **nome do requisito** |  descrição do requisito | 
-
 Levando-se em consideração que há muitas horas em que a lavanderia está vazia, irá ser implementado um mecanismo que permita aos moradores identificarem o melhor momento de utilizar a lavanderia, de acordo com as suas possibilidades.
 
 A ideia principal do projeto é informar aos condôminos se as máquinas estão livres, sem que seja necessário seu deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar, através de um site público, a intensidade luminosa do ambiente da lavanderia.
@@ -64,6 +57,16 @@ A ideia principal do projeto é informar aos condôminos se as máquinas estão 
 Leva-se em consideração a existência do sensor de presença já existente na lavanderia que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por muito tempo deverá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização e descer assim que identificar uma pausa prolongada com a luz apagada.
 
 Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio Canoas? Pode-se ainda, caso o projeto se mostre promissor, identificar individualmente os equipamentos ligados, de forma automática. Para isso, o dispositivo **IoT-Home-L1** deverá ser equipado com sensores nas respectivas tomadas de equipamentos. Mas essa seria uma segunda parte do projeto.
+
+
+| **CONFLITO**     | **Nome**              | **Descrição**           |  
+| :---             |     :---:             |          :---:          |  
+| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
+| Requisito 1      | **nome do requisito** |  descrição do requisito |  
+| Pré 1            | **nome do requisito** |  descrição do requisito |   
+| Requisito 2      | **nome do requisito** |  descrição do requisito | 
+
+Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
