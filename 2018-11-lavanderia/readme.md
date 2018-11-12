@@ -50,13 +50,18 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | p2               | **Alugar mais é solução?** |  Buscar alternativas para maior disponibilidade. | 
 | c                | **Mais ou menos máquinas** |  Conflito real, impossível aumentar e diminuir ao mesmo tempo. | 
 
-Levando-se em consideração que há muitas horas em que a lavanderia está vazia, irá ser implementado um mecanismo que permita aos moradores identificarem o melhor momento de utilizar a lavanderia, de acordo com as suas possibilidades.
+- A seta `r1` indica que o serviço da lavanderia deve ser econômico, ou seja, essa é uma seta forte que mostra uma preocupação legítima que deve ser considerada.
+- A seta `p1` representa a relação entre custo e a quantidade de máquinas, regidas pelo contrato com o fornecedor. Sempre se pode negociar redução de custos ou até mudança do fornecedor mas é normal esperar custos de acordo com a quantidade de equipamentos alocados para o condomínio.
+- A seta `r2` indica que o serviço da lavanderia deve estar disponível para o condômino, ou seja, de nada nos adiantaria um serviço congestionado com filas enormes e desgastantes de administrar.
+- O ponto fraco do conflito da lavanderia é a seta `p2`, pois pode-se tentar aumentar a disponibilidade sem aumentar a quantidade de equipamentos. Para isso, seria necessário um melhor aproveitamento do tempo total disponível.
 
-A ideia principal do projeto é informar aos condôminos se as máquinas estão livres, sem que seja necessário seu deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar, através de um site público, a intensidade luminosa do ambiente da lavanderia.
+De fato, observa-se muitas horas, principalmente à noite, em que a lavanderia está vazia. Não há notícia de alguma medição já realizada pela administração. Um dos objetivos deste projeto seria viabilizar uma medição que permitisse analisar o uso da lavanderia pelos condôminos ao longo da semana. Nesse contexto, seria bastante útil algum mecanismo que permitisse aos moradores identificar o melhor momento de utilizar a lavanderia, de acordo com as  possibilidades de cada um.
 
-Leva-se em consideração a existência do sensor de presença já existente na lavanderia que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por muito tempo deverá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização e descer assim que identificar uma pausa prolongada com a luz apagada.
+A ideia principal do projeto é utilizar o celular para saber se há máquinas de lavar/secar livres, sem que seja necessário o deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar, através de um link público, detalhes sobre o ambiente da lavanderia.
 
-Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio Canoas? Pode-se ainda, caso o projeto se mostre promissor, identificar individualmente os equipamentos ligados, de forma automática. Para isso, o dispositivo **IoT-Home-L1** deverá ser equipado com sensores nas respectivas tomadas de equipamentos. Mas essa seria uma segunda parte do projeto.
+Leva-se em consideração a existência de um sensor de presença, já existente na lavanderia, que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por "algum tempo" deverá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização e descer assim que identificar uma pausa prolongada com a luz apagada.
+
+Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio Canoas? Pode-se ainda, caso o projeto se mostre promissor, identificar individualmente os equipamentos ligados, de forma automática. Para isso, o dispositivo **IoT-Home-L1** teria que receber o sinal de sensores acoplados às respectivas tomadas de equipamentos. Mas essa seria uma segunda fase do projeto.
 
 
 | **CONFLITO**     | **Nome**              | **Descrição**           |  
