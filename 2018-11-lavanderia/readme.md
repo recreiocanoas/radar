@@ -30,7 +30,7 @@ Para se estabelecer a linha de ação do projeto, é vital se estabelecer um dia
 
 ![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
-No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
+No caso da lavanderia do Recreio das Canoas, podemos identificar o conflito descrito na tabela abaixo:
 
 | **CONFLITO**     | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |  
@@ -40,6 +40,7 @@ No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 | Requisito 2      | Alta disponibilidade  |  Condômino deve ter uma máquina livre para uso. |  
 | Pré 2            | Alugar muitas máquinas |  Evitar filas, colocando mais equipamentos à disposição. |   
 
+Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
  
 | **ANÁLISE**      | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |   
