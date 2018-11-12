@@ -91,7 +91,7 @@ A tela de consulta é mostrada a seguir, onde se destacam as informações de il
 
 ![](https://i.imgur.com/v8lXhGY.png)
 
-O painel de sinalização manual à esquerda poderá ainda ser operado, através da gentileza de qualquer condômino presente na lavanderia. Com isso, espera-se informar a todos a situação atualizada dos equipamentos da lavanderia:
+Um painel de sinalização manual, vide à esquerda, poderá ainda ser operado, através da gentileza de qualquer condômino presente na lavanderia. Com isso, espera-se informar a todos a situação atualizada dos equipamentos da lavanderia:
 
 - **AZUL - tudo livre**: ou seja todos os equipamentos da lavanderia estão livres!
 - **VERDE - lavar & secar livres**: pelo menos uma máquina de lavar e uma máquina de secar estão livres.
