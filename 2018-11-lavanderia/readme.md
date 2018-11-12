@@ -57,6 +57,12 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | Pré 1            | **nome do requisito** |  descrição do requisito |   
 | Requisito 2      | **nome do requisito** |  descrição do requisito | 
 
+Levando-se em consideração que há horas em que a lavanderia está vazia, deseja-se criar mecanismos que permitam aos moradores identificarem o melhor momento de utilizar a lavanderia, de acordo com as suas possibilidades. Para isso, esse projeto foi criado.
+
+A ideia principal do projeto é informar aos condôminos se as máquinas estão livres, sem que seja necessário seu deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar a intensidade luminosa do ambiente da lavanderia.
+
+Leva-se em consideração a existência de um sensor de presença na lavanderia que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por muito tempo poderá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização da lavanderia, podendo descer assim que identificar uma pausa prolongada com a luz apagada.
+
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
 | r1               | **nome do requisito** |  descrição do requisito |  
