@@ -34,21 +34,21 @@ No caso da lavanderia do Recreio das Canoas, podemos identificar o conflito desc
 
 | **CONFLITO**     | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |  
-| Objetivo         | Lavanderia eficiente |  Deseja-se um bom serviço a custos razoáveis. |
-| Requisito 1      | Baixo custo | Condomínio deve pagar pouco custo fixo.  |  
-| Pré 1            | Alugar poucas máquinas |  Minimizar a quantidade de equipamentos alugados. |  
-| Requisito 2      | Alta disponibilidade  |  Condômino deve dispor de máquina livre para uso. |  
-| Pré 2            | Alugar muitas máquinas |  Evitar filas, colocando mais equipamentos à disposição. |   
+| Objetivo         | **Lavanderia eficiente** |  Deseja-se um bom serviço a custos razoáveis. |
+| Requisito 1      | **Baixo custo** | Condomínio deve pagar pouco custo fixo.  |  
+| Pré 1            | **Alugar poucas máquinas** |  Minimizar a quantidade de equipamentos alugados. |  
+| Requisito 2      | **Alta disponibilidade**  |  Condômino deve dispor de máquina livre para uso. |  
+| Pré 2            | **Alugar muitas máquinas** |  Evitar filas, colocando mais equipamentos à disposição. |   
 
 Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
  
 | **ANÁLISE**      | **Nome**         | **Descrição**          |  
 | :---             |     :---:        |          :---:         |   
-| r1               | Redução de custos |  É uma preocupação legítima que deve ser considerada.  |
-| p1               | Contrato do fornecedor |  O custo está previsto no serviço contratado. | 
-| r2               | Máquinas livres |  Deseja-se que o condômino disponha de máquinas livres. | 
-| p2               | Alugar mais é a solução? |  Buscar alternativas para maior disponibilidade. | 
-| c                | Mais ou menos máquinas |  O conflito é real, não dá para aumentar e diminuir ao mesmo tempo. | 
+| r1               | **Redução de custos** |  É uma preocupação legítima que deve ser considerada.  |
+| p1               | **Contrato do fornecedor** |  O custo está previsto no serviço contratado. | 
+| r2               | **Máquinas livres** |  Deseja-se que o condômino disponha de máquinas livres. | 
+| p2               | **Alugar mais é solução?** |  Buscar alternativas para maior disponibilidade. | 
+| c                | **Mais ou menos máquinas** |  O conflito é real, não dá para aumentar e diminuir ao mesmo tempo. | 
 
 | **CONFLITO**     | **Nome**          | **Descrição**           |  
 | :---             |     :---:         |          :---:          |  
