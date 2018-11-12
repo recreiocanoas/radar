@@ -28,7 +28,7 @@ Este projeto pretende criar condições para se otimizar a utilização da lavan
 
 Para se estabelecer a linha de ação do projeto, é vital se estabelecer um diagrama que permite a análise detalhada do conflito. Ele deve possuir um objetivo e dois requisitos que possuam pré-requisitos conflitantes, como mostra a figura a seguir:
 
-![Diagrama do Conflito](https://i.imgur.com/eOe8AJg.png)
+![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
 No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 
@@ -46,6 +46,11 @@ No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 | Objetivo         | Lavar/secar roupa |  descrição do objetivo  |
 | Requisito 1      | nome do requisito |  descrição do requisito |  
 | Pré 1            | nome do requisito |  descrição do requisito |  
-| Requisito 2      | nome do requisito |  descrição do requisito |  
-| Pré 2            | nome do requisito |  descrição do requisito |    
+| Requisito 2      | nome do requisito |  descrição do requisito |
+| :---             |     :---:         |          :---:          |   
+| Pré 2            | nome do requisito |  descrição do requisito |
+| Pré 2            | nome do requisito |  descrição do requisito | 
+| Pré 2            | nome do requisito |  descrição do requisito | 
+| Pré 2            | nome do requisito |  descrição do requisito | 
+| Pré 2            | nome do requisito |  descrição do requisito |     
 
