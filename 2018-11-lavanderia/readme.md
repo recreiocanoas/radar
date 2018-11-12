@@ -52,7 +52,7 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 
 - A seta `r1` indica que o serviço da lavanderia deve ser econômico, ou seja, essa é uma seta forte que mostra uma preocupação legítima que deve ser considerada.
 - A seta `p1` representa a relação entre custo e a quantidade de máquinas, regidas pelo contrato com o fornecedor. Sempre se pode negociar redução de custos ou até mudança do fornecedor mas é normal esperar custos de acordo com a quantidade de equipamentos alocados para o condomínio.
-- A seta `r2` indica que o serviço da lavanderia deve estar disponível para o condômino, ou seja, de nada nos adiantaria um serviço congestionado com filas enormes e desgastantes de administrar.
+- A seta `r2` indica que o serviço da lavanderia deve estar disponível para o condômino, ou seja, de nada nos adiantaria um serviço congestionado com filas enormes e desgastantes.
 - O ponto fraco do conflito da lavanderia é a seta `p2`, pois pode-se tentar aumentar a disponibilidade sem aumentar a quantidade de equipamentos. Para isso, seria necessário um melhor aproveitamento do tempo total disponível.
 
 De fato, observa-se muitas horas, principalmente à noite, em que a lavanderia está vazia. Não há notícia de alguma medição já realizada pela administração. Um dos objetivos deste projeto seria viabilizar uma medição que permitisse analisar o uso da lavanderia pelos condôminos ao longo da semana. Nesse contexto, seria bastante útil algum mecanismo que permitisse aos moradores identificar o melhor momento de utilizar a lavanderia, de acordo com as  possibilidades de cada um.
@@ -80,4 +80,10 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | r2               | **nome do requisito** |  descrição do requisito |  
 | p2               | **nome do requisito** |  descrição do requisito |  
 | c                | **nome do requisito** |  descrição do requisito |      
+
+## IoT-Home-L1
+
+O equipamento IoT-Home-L1, mostrado abaixo possui um micro-computador ligado à Internet e equipado com sensores de temperatura, umidade e luz. 
+
+![IoT-Home-L1](https://i.imgur.com/VdScIVR.png)
 
