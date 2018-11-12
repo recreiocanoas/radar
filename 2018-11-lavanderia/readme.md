@@ -85,5 +85,18 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 
 O equipamento IoT-Home-L1, mostrado abaixo possui um micro-computador ligado à Internet e equipado com sensores de temperatura, umidade e luz. 
 
-![IoT-Home-L1](https://i.imgur.com/VdScIVR.png)
+![IoT-Home-L1](https://i.imgur.com/729O3BN.png)
 
+A tela de consulta é mostrada a seguir, onde se destacam as informações de iluminância indicando se aluz está acesa ou apagada. Como pode ser visto, outras informações são disponibilizadas como umidade, temperatura, posição do sol, além de informações sobre a performance do micro-computador e da rede de comunicação.
+
+![](https://i.imgur.com/v8lXhGY.png)
+
+O painel de sinalização à esquerda poderá ser operado, através da gentileza de qualquer condômino presente na lavanderia, para informar a situação atualizada dos equipamentos da lavanderia:
+
+- **azul/tudo livre**: ou seja todos os equipamentos da lavanderia estão livres!
+- **verde/lavar & secar livres**: pelo menos uma máquina de lavar e uma máquina de secar estão livres.
+- **amarelo/lavar livre**: há pelo menos uma máquina de lavar livre, secadoras ocupadas.
+- **vermelho/nada livre**: todas as máquinas estão ocupadas.
+- **desligado**: ao se desligar a sinalização, a iluminância ainda pode ser usada como informação. 
+
+ 
