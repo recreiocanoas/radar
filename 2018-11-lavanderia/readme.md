@@ -47,7 +47,7 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | r1               | Redução de custos |  É uma preocupação legítima que deve ser considerada.  |
 | p1               | Contrato do fornecedor |  O custo está previsto no serviço contratado. | 
 | r2               | Máquinas livres |  Deseja-se que o condômino disponha de máquina livre. | 
-| p2               | Alugar mais máquinas é a única solução? |  Buscar alternativas para maior disponibilidade. | 
+| p2               | Alugar mais é a solução? |  Buscar alternativas para maior disponibilidade. | 
 | c                | Mais ou menos máquinas |  O conflito é real, não dá para aumentar e diminuir ao mesmo tempo. | 
 
 | **CONFLITO**     | **Nome**          | **Descrição**           |  
