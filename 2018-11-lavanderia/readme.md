@@ -37,7 +37,7 @@ No caso da lavanderia do Recreio das Canoas, podemos identificar o conflito desc
 | Objetivo         | Lavanderia eficiente |  Deseja-se um bom serviço a custos razoáveis. |
 | Requisito 1      | Baixo custo | Condomínio deve pagar pouco custo fixo.  |  
 | Pré 1            | Alugar poucas máquinas |  Minimizar a quantidade de equipamentos alugados. |  
-| Requisito 2      | Alta disponibilidade  |  Condômino deve ter uma máquina livre para uso. |  
+| Requisito 2      | Alta disponibilidade  |  Condômino deve dispor de máquina livre para uso. |  
 | Pré 2            | Alugar muitas máquinas |  Evitar filas, colocando mais equipamentos à disposição. |   
 
 Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
