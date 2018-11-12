@@ -39,8 +39,8 @@ No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 | Pré 1            | Alugar poucas máquinas |  Minimizar a quantidade de equipamentos alugados. |  
 | Requisito 2      | Alta disponibilidade  |  Condômino deve ter uma máquina livre para uso. |  
 | Pré 2            | Alugar muitas máquinas |  Evitar filas, colocando mais equipamentos à disposição. |    
-|                  |                   |                         |   
-| r1               | redução custos |  É uma preocupação legítima.  |
+| **ANÁLISE**      |                   |                         |   
+| r1               | redução custos |  É uma preocupação legítima que deve ser considerada.  |
 | p1               | contrato fornecedor |  É o que está previsto no serviço contratado. | 
 | r2               | máquinas livres |  deseja-se que o condômino tenha máquina livre para usar | 
 | p2               | alugar máquinas seria a melhor solução? |  Há alternativas para aumentar a disponibilidade? | 
@@ -52,7 +52,7 @@ No caso da lavanderia, podemos identificar o conflito descrito na tabela abaixo:
 | Requisito 1      | nome do requisito |  descrição do requisito |  
 | Pré 1            | nome do requisito |  descrição do requisito |  
 | Requisito 2      | nome do requisito |  descrição do requisito |
-|                  |                   |                         |   
+| **ANÁLISE**      |                   |                         |   
 | Pré 2            | nome do requisito |  descrição do requisito |
 | Pré 2            | nome do requisito |  descrição do requisito | 
 | Pré 2            | nome do requisito |  descrição do requisito | 
