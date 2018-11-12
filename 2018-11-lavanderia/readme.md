@@ -63,24 +63,6 @@ Leva-se em consideração a existência de um sensor de presença, já existente
 
 Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio Canoas? Pode-se ainda, caso o projeto se mostre promissor, identificar individualmente os equipamentos ligados, de forma automática. Para isso, o dispositivo **IoT-Home-L1** teria que receber o sinal de sensores acoplados às respectivas tomadas de equipamentos. Mas essa seria uma segunda fase do projeto.
 
-
-| **CONFLITO**     | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
-| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
-| Requisito 1      | **nome do requisito** |  descrição do requisito |  
-| Pré 1            | **nome do requisito** |  descrição do requisito |   
-| Requisito 2      | **nome do requisito** |  descrição do requisito | 
-
-Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
-
-| **ANÁLISE**      | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
-| r1               | **nome do requisito** |  descrição do requisito |  
-| p1               | **nome do requisito** |  descrição do requisito |  
-| r2               | **nome do requisito** |  descrição do requisito |  
-| p2               | **nome do requisito** |  descrição do requisito |  
-| c                | **nome do requisito** |  descrição do requisito |      
-
 ## IoT-Home-L1
 
 O equipamento IoT-Home-L1, mostrado abaixo, possui um micro-computador ligado à Internet e é equipado com sensores de temperatura, umidade e luz. 
