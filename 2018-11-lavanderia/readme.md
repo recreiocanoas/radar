@@ -57,11 +57,13 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | Pré 1            | **nome do requisito** |  descrição do requisito |   
 | Requisito 2      | **nome do requisito** |  descrição do requisito | 
 
-Levando-se em consideração que há horas em que a lavanderia está vazia, deseja-se criar mecanismos que permitam aos moradores identificarem o melhor momento de utilizar a lavanderia, de acordo com as suas possibilidades. Para isso, esse projeto foi criado.
+Levando-se em consideração que há muitas horas em que a lavanderia está vazia, irá ser implementado um mecanismo que permita aos moradores identificarem o melhor momento de utilizar a lavanderia, de acordo com as suas possibilidades.
 
-A ideia principal do projeto é informar aos condôminos se as máquinas estão livres, sem que seja necessário seu deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar a intensidade luminosa do ambiente da lavanderia.
+A ideia principal do projeto é informar aos condôminos se as máquinas estão livres, sem que seja necessário seu deslocamento até a lavanderia. Para isso, será instalado um dispositivo **IoT-Home-L1**, capaz de detectar e informar, através de um site público, a intensidade luminosa do ambiente da lavanderia.
 
-Leva-se em consideração a existência de um sensor de presença na lavanderia que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por muito tempo poderá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização da lavanderia, podendo descer assim que identificar uma pausa prolongada com a luz apagada.
+Leva-se em consideração a existência do sensor de presença já existente na lavanderia que acende a luz automaticamente na presença de alguém. Em um primeiro momento, a luz apagada por muito tempo deverá ser um indicador de lavanderia vazia. Assim, basta o condômino acompanhar de casa a utilização e descer assim que identificar uma pausa prolongada com a luz apagada.
+
+Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio Canoas? Pode-se ainda, caso o projeto se mostre promissor, identificar individualmente os equipamentos ligados, de forma automática. Para isso, o dispositivo **IoT-Home-L1** deverá ser equipado com sensores nas respectivas tomadas de equipamentos. Mas essa seria uma segunda parte do projeto.
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
