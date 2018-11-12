@@ -95,7 +95,7 @@ Um painel de sinalização manual, vide à esquerda, poderá ainda ser operado, 
 
 - **AZUL - tudo livre**: ou seja todos os equipamentos da lavanderia estão livres!
 - **VERDE - lavar & secar livres**: pelo menos uma máquina de lavar e uma máquina de secar estão livres.
-- **AMARELO - lavar livre**: há pelo menos uma máquina de lavar livre, secadoras ocupadas.
+- **AMARELO - lavar livre**: há pelo menos uma máquina de lavar livre, as secadoras estão todas ocupadas.
 - **VERMELHO - nada livre**: todas as máquinas estão ocupadas.
 - **DESLIGADO**: mesmo desligada a sinalização manual, o painel de iluminância ainda pode ser usado como informação. 
 
