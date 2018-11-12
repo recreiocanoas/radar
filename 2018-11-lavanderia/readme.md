@@ -48,18 +48,20 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 | p1               | **Contrato do fornecedor** |  O custo está previsto no serviço contratado. | 
 | r2               | **Máquinas livres** |  Deseja-se que o condômino disponha de máquinas livres. | 
 | p2               | **Alugar mais é solução?** |  Buscar alternativas para maior disponibilidade. | 
-| c                | **Mais ou menos máquinas** |  O conflito é real, não dá para aumentar e diminuir ao mesmo tempo. | 
+| c                | **Mais ou menos máquinas** |  Conflito real, impossível aumentar e diminuir ao mesmo tempo. | 
 
-| **CONFLITO**     | **Nome**          | **Descrição**           |  
-| :---             |     :---:         |          :---:          |  
-| Objetivo         | Lavar/secar roupa |  descrição do objetivo  |
-| Requisito 1      | nome do requisito |  descrição do requisito |  
-| Pré 1            | nome do requisito |  descrição do requisito |  
-| Requisito 2      | nome do requisito |  descrição do requisito |
-| **ANÁLISE**      |                   |                         |   
-| r1               | nome do requisito |  descrição do requisito |
-| p1               | nome do requisito |  descrição do requisito | 
-| r2               | nome do requisito |  descrição do requisito | 
-| p2               | nome do requisito |  descrição do requisito | 
-| c                | nome do requisito |  descrição do requisito |     
+| **CONFLITO**     | **Nome**              | **Descrição**           |  
+| :---             |     :---:             |          :---:          |  
+| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
+| Requisito 1      | **nome do requisito** |  descrição do requisito |  
+| Pré 1            | **nome do requisito** |  descrição do requisito |   
+| Requisito 2      | **nome do requisito** |  descrição do requisito | 
+
+| **ANÁLISE**      | **Nome**              | **Descrição**           |  
+| :---             |     :---:             |          :---:          |  
+| r1               | **nome do requisito** |  descrição do requisito |  
+| p1               | **nome do requisito** |  descrição do requisito |  
+| r2               | **nome do requisito** |  descrição do requisito |  
+| p2               | **nome do requisito** |  descrição do requisito |  
+| c                | **nome do requisito** |  descrição do requisito |      
 
