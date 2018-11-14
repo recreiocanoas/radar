@@ -3,7 +3,7 @@
 # Lavanderia Recreio das Canoas
 
 Acesso via navegador: [http://recreiocanoas.dyndns.tv:8123](http://recreiocanoas.dyndns.tv:8123 "Recreio Canoas IoT")  
-Como usar: [Guia do usuário](https://github.com/recreiocanoas/radar/blob/master/2018-11-lavanderia/guia-usuario.md "Guia do Usuário")
+Como usar: [Guia do usuário](https://github.com/recreiocanoas/radar/blob/master/2018-11-lavanderia/guia_usuario.md "Guia do Usuário")
 
 ## Descrição sumária
 
