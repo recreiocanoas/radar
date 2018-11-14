@@ -17,7 +17,7 @@ Abra seu navegador e navegue para o seguinte endereço:
 
 http://recreiocanoas.dyndns.tv:8123
 
-usuário: crrc
+usuário: crrc  
 senha: crrc
 
 Na primeira vez que você acessar, deverá aparecer uma tela inicial com informações básicas:
