@@ -1,9 +1,9 @@
 #### CRRC Radar 2018
 
-# Lavanderia Recreio das Canoas
+# Lavanderia
 
-Acesso via navegador: [http://recreiocanoas.dyndns.tv:8123](http://recreiocanoas.dyndns.tv:8123 "Recreio Canoas IoT")  
-Como usar: [Guia do usuário](https://github.com/recreiocanoas/radar/blob/master/2018-11-lavanderia/guia-usuario.md "Guia do Usuário")
+Acesso: [http://recreiocanoas.dyndns.tv:8123](http://recreiocanoas.dyndns.tv:8123 "Recreio Canoas IoT")  
+Guia do usuário
 
 ## Descrição sumária
 
