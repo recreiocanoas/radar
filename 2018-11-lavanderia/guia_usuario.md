@@ -18,7 +18,7 @@ Abra seu navegador e navegue para o seguinte endereço:
 http://recreiocanoas.dyndns.tv:8123
 
 
-Deverá aparecer uma tela inicial com informações básicas:
+Na primeira vez que você acessar, deverá aparecer uma tela inicial com informações básicas:
 
 ![Tela inicial](https://i.imgur.com/0bxdQtL.png)
 
