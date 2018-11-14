@@ -44,6 +44,8 @@ Esta é uma versão experimental em teste, você pode consultar a tela de histó
 
 ![](https://i.imgur.com/aFEaL0W.png)
 
+Repare que as mudanças bruscas de umidade devem ser por causa das secadoras ligadas, talvez seja mais uma informação a considerar. Vamos analisar os dados por um tempo e observar.
+
 Por favor, não modifique as configurações.
 
 Tenha um bom uso!
