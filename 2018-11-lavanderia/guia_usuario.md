@@ -40,3 +40,6 @@ E deverá surgir a tela principal definitiva. A partir de agora, a tela de entra
 
 ![](https://i.imgur.com/8OzVilI.png)
 
+Esta é uma versão experimental em teste, você pode consultar a tela de histórico com informação  detalhada dos sensores e horários exatos. Pode-se também consultar os dados de dias anteriores.
+
+![](https://i.imgur.com/aFEaL0W.png)
