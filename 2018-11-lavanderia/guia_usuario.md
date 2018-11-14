@@ -3,7 +3,6 @@
 # Lavanderia
 
 Acesso: [http://recreiocanoas.dyndns.tv:8123](http://recreiocanoas.dyndns.tv:8123 "Recreio Canoas IoT")  
-Guia do usuário
 
 ## Guia do Usuário
 
