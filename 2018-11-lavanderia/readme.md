@@ -84,4 +84,4 @@ Um painel de sinalização manual, vide à esquerda, poderá ainda ser operado, 
 - **VERMELHO - nada livre**: todas as máquinas estão ocupadas.
 - **DESLIGADO**: mesmo desligada a sinalização manual, o painel de iluminância ainda pode ser usado como informação. 
 
- 
+*Gostou? Me dá uma estrela :star:!*
