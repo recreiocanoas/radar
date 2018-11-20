@@ -5,9 +5,9 @@
 [http://recreiocanoas.dyndns.tv:8123](http://recreiocanoas.dyndns.tv:8123 "Recreio Canoas IoT")  
 (login e senha disponíveis na administração)  
 
-Como começar a usar: [Guia do usuário](https://github.com/recreiocanoas/radar/blob/master/2018-11-lavanderia/guia_usuario.md "Guia do Usuário")
+Veja instruções no [Guia do usuário](https://github.com/recreiocanoas/radar/blob/master/2018-11-lavanderia/guia_usuario.md "Guia do Usuário")
 
-## Descrição sumária
+## Resumo
 
 A lavanderia do condomínio Recreio das Canoas, utilizada por muitos condôminos, disponibiliza máquinas de lavagem e secagem de roupas, mediante a compra de fichas.
 
