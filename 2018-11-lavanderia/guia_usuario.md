@@ -13,12 +13,11 @@ Há duas formas de se acessar a Lavanderia Recreio das Canoas:
 
 ### Acesso via navegador Internet
 
-Abra seu navegador e navegue para o seguinte endereço:
+Abra seu navegador e navegue para o endereço abaixo.  Por segurança, o usuário e senha estão disponíveis na administração.
 
 http://recreiocanoas.dyndns.tv:8123
 
-usuário: crrc  
-senha: crrc
+  
 
 Na primeira vez que você acessar, deverá aparecer uma tela inicial com informações básicas:
 
