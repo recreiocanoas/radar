@@ -70,7 +70,7 @@ Será isso suficiente para otimizar o uso da lavanderia do condomínio Recreio C
 
 ## IoT-Home-L1
 
-O equipamento IoT-Home-L1, mostrado abaixo, possui um micro-computador ligado à Internet e é equipado com sensores de temperatura, umidade e luz. 
+O equipamento IoT-Home-L1, mostrado abaixo, possui um micro-computador ligado à Internet e é equipado com sensores de temperatura, umidade e luz. Veja mais detalhes sobre a construção deste equipamento no artigo [IoT Home Assistant API for Raspberry Pi](https://www.codeproject.com/Articles/1265112/IoT-Home-Assistant-API-for-Raspberry-Pi).
 
 ![IoT-Home-L1](https://i.imgur.com/729O3BN.png)
 
