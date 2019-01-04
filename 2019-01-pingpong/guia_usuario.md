@@ -56,7 +56,7 @@ quando:
 durante a sequência.
 
 ### JOGOS DE DUPLAS
-Valem as mesmas regras, sendo que:
+Valem as mesmas regras, sendo que jogam AB contra XY:
 
 1. O saque tem que ser feito do lado direito do sacador para o lado direito do
 recebedor.
