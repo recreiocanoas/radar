@@ -16,7 +16,7 @@ Esta mesa de competição da Hobby possui performance superior, tornando a bola 
 
 Já foi tentada a liberação da uma mesa de competição de ping ping para os condôminos de Canoas, com  resultados insatisfatórios. A mesa anterior, também comprada para treinamento, ficou bastante destruída com o uso dos condôminos de Canoas. Foram registrados repetidos incidentes com crianças de 6 a 16 anos que, por diversos motivos, insistiam em SUBIR na mesa. O resultado foram sucessivas quedas no chão, da mesa e das crianças. Um aborrecimento para todos. Esperamos que a experiência possa ser melhor dessa vez.
 
-A sala também possui separadores, específicos de tênis de mesa, úteis para delimitar a área de jogo e facilitar o trabalho de catar as bolas.
+A sala também possui quatro separadores, específicos de tênis de mesa, úteis para delimitar a área de jogo e facilitar o trabalho de catar as bolas.
 
 ## Como usar
 
