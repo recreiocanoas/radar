@@ -6,7 +6,7 @@ Veja as instruções do [Guia do usuário](https://github.com/recreiocanoas/rada
 
 ## Resumo
 
-A partir de 2019, nos finais de semana, a antigo salão de sinuca no segundo andar da sede, está agora equipada com uma mesa de ping-pong profissional!
+A partir de 2019, nos finais de semana, o antigo salão de sinuca no segundo andar da sede, está agora equipada com uma mesa de ping-pong profissional!
 
 ![](https://i.imgur.com/Z3Xc1aZ.jpg)
 
