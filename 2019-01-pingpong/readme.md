@@ -20,7 +20,7 @@ A sala também possui quatro separadores, específicos de tênis de mesa, úteis
 
 ## Como usar
 
-Você não precisa levar nada para jogar! Só o seu parceiro!
+Você não precisa levar nada para jogar! Só um(a) parceiro(a)!
 
 **A sala possui a mesa, a rede e uma caixa cinza (mostrada na foto) com 2 raquetes e 5 bolas**. 
 
