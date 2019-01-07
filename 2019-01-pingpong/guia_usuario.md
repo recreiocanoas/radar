@@ -31,7 +31,8 @@ por sorteio (ficha de duas cores), sendo que o atleta que começou a sacar no
 primeiro set começará recebendo no segundo set e assim sucessivamente.
 6. O sacador deverá sacar de forma que o adversário possa ver a bola desde o
 momento em que ela sai da mão até ser batida com raquete.
-UMA OBSTRUÇÃO (NÃO VALE PONTO)
+
+### UMA OBSTRUÇÃO (NÃO VALE PONTO)
 
 A partida deve ser interrompida quando:
 
