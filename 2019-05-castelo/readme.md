@@ -21,7 +21,7 @@ O indicador do **nível da água do reservatório** é, portanto, uma medida fun
 
 Este projeto vem sendo desenvolvido há algum tempo, com o objetivo de dotar a administração de uma ferramenta que indique o **nível de água do Castelo em tempo real**. Isso permitiria a rápida identificação de problemas e aceleraria a tomada de decisão de  eventuais reparos. Além disso, o monitoramento em tempo real permitiria acompanhar o processo de reparo até a normalização da situação. Hoje em dia, isso é realizado através de sucessivas subidas e descidas ao topo do Castelo, realizadas por nossos funcionários, até que a "caixa esteja enchendo" corretamente.
 
-Após algumas tentativas com sensores ultra sônicos que não deram certo, finalmente surgiu uma tecnologia denominada ToF (Time of Flight) baseada em um raio laser invisível que permite medir distâncias com precisão de milímetros. Abaixo o Painel do Supervisor que estará sendo testado nos próximos dias.
+Após algumas tentativas com sensores ultra sônicos que não deram certo, finalmente surgiu uma tecnologia denominada ToF (Time of Flight) baseada em um raio laser invisível que permite medir distâncias com precisão de milímetros. Abaixo o Painel do Supervisor de um protótipo que estará sendo testado nos próximos dias.
 
 ![Painel Supervisor](https://i.imgur.com/rWDB3bC.png)
 
