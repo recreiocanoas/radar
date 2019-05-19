@@ -1,48 +1,28 @@
 #### CRRC Radar 2018
 
-# Nome-do-projeto
+###[Painel Supervisor](http://recreiocanoas.ddns.net:8123 "Painel Supervisor")
+
+# Projeto Água do Castelo
 
 ## Descrição sumária
 
-Descrição sumária aqui.....
+Este projeto tem o objetivo de monitorar o abastecimento de água do condomínio, realizado através de um poço artesiano que bombeia água para um reservatório que carinhosamente apelidamos de Castelo, mostrado na foto abaixo. Em seguida, a água deste reservatório abastece as caixas d'água de todos os blocos do condomínio.
 
-Seguem características do problema e fatos relevantes ...
+![Castelo](https://i.imgur.com/PHaHO0v.png)
 
+Internamente, temos um reservatório cilíndrico circular fechado, parecido com uma forma de bolo. O acesso se dá exclusivamente por uma escada embaixo do reservatório, localizada no centro da forma. Como mostra a foto abaixo, o nível da água pode ser visto do topo da escada.
 
-### Diagrama do Conflito
+![Reservatório](https://i.imgur.com/1AcOmRi.png)
 
-Para se estabelecer a linha de ação do projeto, é vital se estabelecer um diagrama que permite a análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um objetivo e dois requisitos que possuam pré-requisitos conflitantes, como mostra a figura a seguir:
+Pois é exatamente isso que um colaborador nosso faz todos os dias ao raiar do dia, faça chuva ou sol, para informar à administração a situação do abastecimento de água do condomínio. Não é preciso lembrar a importância desta tarefa, pois a água de todos depende do perfeito funcionamento deste sistema de abastecimento. O volume do reservatório, segundo dados da administração, é suficiente para menos de um dia de fornecimento.
 
-![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
+O indicador do **nível da água do reservatório** é, portanto, uma medida fundamental para a administração poder agir rapidamente em caso de falhas.
 
-No caso do projeto .... podemos identificar o conflito descrito abaixo:
+### Detalhes do projeto
 
-| **CONFLITO**     | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
-| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
-| Requisito 1      | **nome do requisito** |  descrição do requisito |  
-| Pré 1            | **nome do requisito** |  descrição do requisito |   
-| Requisito 2      | **nome do requisito** |  descrição do requisito | 
+Este projeto vem sendo desenvolvido há algum tempo, com o objetivo de dotar a administração de uma ferramenta que indique o **nível de água do Castelo em tempo real**. Isso permitiria a rápida identificação de problemas e aceleraria a tomada de decisão de  eventuais reparos. Além disso, o monitoramento em tempo real permitiria acompanhar o processo de reparo até a normalização da situação. Hoje em dia, isso é realizado através de sucessivas subidas e descidas ao topo do Castelo, realizadas por nossos funcionários, até que a "caixa esteja enchendo" corretamente.
 
-Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
+Após algumas tentativas com sensores ultra sônicos que não deram certo, finalmente surgiu uma tecnologia denominada ToF (Time of Flight) baseada em um raio laser invisível que permite medir distâncias com precisão de milímetros. Os detalhes técnicos podem ser vistos no projeto [IoT.Hass.Farm](https://github.com/josemotta/IoT.Hass.Farm "IoT.Hass.Farm") escrito em inglês. Para traduzir para portugês com o navegador Chrome, clique no botão direito, como mostrado abaixo.
 
-| **ANÁLISE**      | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
-| r1               | **nome do requisito** |  descrição do requisito |  
-| p1               | **nome do requisito** |  descrição do requisito |  
-| r2               | **nome do requisito** |  descrição do requisito |  
-| p2               | **nome do requisito** |  descrição do requisito |  
-| c                | **nome do requisito** |  descrição do requisito |      
-
-## Outros pontos
-
-Detalhar a solução pretendida pelo projeto, procurando responder a três perguntas:
-
-- O que mudar?
-- Para o que mudar?
-- Como mudar?
-
-Teste diagrama
-
-![](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQXV0aG9yaXphdGlvbiBGbG93CgpVc2VyIC0-IENsaWVudDogTG9nIGludG8gSG9tZSBBc3Npc3RhbnQKABoGIC0-IFVzZXI6AEMJZSB1cmwgAD4JACgOOiBHbyB0bwAeBWFuZCBhAC0ICgBQDgB1DACBFw5jb2RlAHELAE4RZXQgdG9rZW5zIGZvcgAoBgBBGlQAJQUK&s=qsd)
+![Tradução para Português](https://i.imgur.com/9MAkKZ7.png)
 
