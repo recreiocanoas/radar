@@ -22,7 +22,7 @@ A partir das fotos e vídeos realizados pelo drone e seu posterior tratamento di
 
 - **[Modelo 3D do Recreio das Canoas](https://github.com/recreiocanoas/radar/blob/master/2019-05-aerovision/canoasMap.pdf)**
 
-Clique no link e faça download do arquivo. Ao abrir o .pdf, habilite o recurso 3D e confirme que o arquivo é confiável. Ao abrir, repare que é possível ajustar a vista do condomínio em diversos ângulos e aproximações.
+Clique no link e faça download do arquivo. Utilize o Adobe Acrobat para abrir o .pdf, habilite o recurso 3D e confirme que o arquivo é confiável. Ao abrir, repare que é possível ajustar a vista do condomínio em diversos ângulos e aproximações.
 
 ![](https://i.imgur.com/fsR890f.png)
 
