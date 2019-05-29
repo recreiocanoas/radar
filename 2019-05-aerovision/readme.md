@@ -28,8 +28,8 @@ Clique no link e faça download do arquivo. Ao abrir o .pdf, habilite o recurso 
 
 ### Conclusões
 
-Este é um projeto em andamento que poderá servir de referência para outros projetos do condomínio. Os próximos passos seriam:
+Este é um projeto em andamento que poderá servir de referência para outros projetos. Os próximos passos previstos seriam:
 
-- A renderização de imagens está sendo avaliada. Maior resolução dependeria de muitas horas de processamento, exigindo também mais recursos dos usuários na visualização.
-- Imagem em 3D do terreno, com curvas de nível.
+- Renderização de imagens sendo avaliada. Maior resolução dependeria de muitas horas de processamento, exigindo também mais recursos dos usuários na visualização.
+- Imagem em 3D do terreno, com obtenção das curvas de nível.
 
