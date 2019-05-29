@@ -2,7 +2,7 @@
 
 # Projeto AeroVision
 
-Link para **[Modelo 3D](http://recreiocanoas.ddns.net:8123 "Painel Supervisor")**
+Link para **[Modelo 3D](https://github.com/recreiocanoas/radar/blob/master/2019-05-aerovision/canoasMap.pdf)**
 ## Descrição sumária
 
 Este projeto tem o objetivo de realizar o geo referenciamento do condomínio. Os dados serão utilizados como referência para outras iniciativas, permitindo mapear com precisão nossas áreas internas, prédios, e pontos de referência como a portaria, o castelo, a piscina, etc. 
@@ -20,9 +20,9 @@ As atividades até o momento foram:
 
 A partir das fotos e vídeos realizados pelo drone e seu posterior tratamento digital em software especializado, temos um modelo em 3D do condomínio que pode ser visto no link a seguir:
 
-- Modelo 3D do Recreio das Canoas
+- **[Modelo 3D do Recreio das Canoas](https://github.com/recreiocanoas/radar/blob/master/2019-05-aerovision/canoasMap.pdf)**
 
-Clique no link e confirme para o navegador que o arquivo é confiável. Ao abri-lo, repare que é possível ajustar a vista do condomínio de diversos ângulos e aproximações.
+Clique no link e faça download do arquivo. Ao abrir o .pdf, habilite o recurso 3D e confirme que o arquivo é confiável. Ao abrir, repare que é possível ajustar a vista do condomínio em diversos ângulos e aproximações.
 
 ![](https://i.imgur.com/fsR890f.png)
 
