@@ -24,4 +24,4 @@ Está sendo considerada a substituição dos disjuntores do armário da sede por
 
 Um levantamento interno nas tomadas e pontos de energia da sede deverá identificar as caixas de fusível e circuitos existentes no local.
 
-
+Para colaborar online, através da Internet, para a elaboração deste guia e demais projetos do Radar Canoas, favor entrar em contato com a administração. Veja mais detalhes na [documentação](https://github.com/recreiocanoas/docs).
