@@ -24,5 +24,5 @@ Tendo em vista o objetivo final da festa, seriam previstas as seguintes etapas:
 - **Desmontagem:** A administração deverá alocar recursos para desmontagem e recuperação dos espaços, retornando-os para uso normal dos condôminos.
 - **Relatório final:** Um relatório final da comissão organizadora da festa junina poderá alimentar e sugerir aperfeiçoamentos deste Guia da Festa Junina de Canoas para os próximos anos.
 
-Para colaborar online, através da Internet, para a elaboração deste guia e demais projetos do Radar Canoas, favor entrar em contato com a administração.
+Para colaborar online, através da Internet, para a elaboração deste guia e demais projetos do Radar Canoas, favor entrar em contato com a administração. Veja mais detalhes na [documentação](https://github.com/recreiocanoas/docs).
 
