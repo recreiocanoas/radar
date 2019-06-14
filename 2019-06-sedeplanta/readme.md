@@ -71,8 +71,9 @@ Está sendo considerada também a substituição dos disjuntores do armário da 
 Um levantamento interno dos circuitos, desde o Quadro Geral da Sede e prosseguindo até os pontos de energia elétrica disponíveis na sede permitirá identificar a capacidade e o dimensionamento dos disjuntores e circuitos já existentes. Há previsão de se identificar ainda pelo menos mais dois quadros de energia elétrica:
 
 - Quadro de distribuição "*bomboniére*" que redireciona energia para a administração e a central de telefonia.
-- Quadro da lavanderia, equipada atualmente com duas máquinas de lavar e duas de secar, com consumo total bastante elevado.
+- Quadro da lavanderia, equipada atualmente com duas máquinas de lavar e duas de secar, com consumo total  elevado.
 - Importante também realizar o balanceamento de carga da academia, cujo circuito inclui uma esteira rolante e  um aparelho de ar condicionado que demandam alta potência.
 - Seria inteligente reservar uma fase para os equipamentos eletrônicos como os de telefonia e câmeras, sensíveis às interferências eletromagnéticas geradas pelos motores de escova mencionados anteriormente.
 
+:radar:  
 Para colaborar online, através da Internet, para a elaboração deste guia e demais projetos do Radar Canoas, favor entrar em contato com a administração. Veja mais detalhes na [documentação](https://github.com/recreiocanoas/docs).
