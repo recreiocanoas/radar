@@ -75,5 +75,5 @@ Um levantamento interno dos circuitos, desde o Quadro Geral da Sede e prosseguin
 - Importante também realizar o balanceamento de carga da academia, cujo circuito inclui uma esteira rolante e  um aparelho de ar condicionado que demandam alta potência.
 - Seria inteligente reservar uma fase para os equipamentos eletrônicos como os de telefonia e câmeras, sensíveis às interferências eletromagnéticas geradas pelos motores de escova mencionados anteriormente.
 
-:radar:  
+:mdi-radar:  
 Para colaborar online, através da Internet, para a elaboração deste guia e demais projetos do Radar Canoas, favor entrar em contato com a administração. Veja mais detalhes na [documentação](https://github.com/recreiocanoas/docs).
