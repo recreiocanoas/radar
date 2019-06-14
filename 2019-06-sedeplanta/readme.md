@@ -14,7 +14,7 @@ Está também prevista a revisão e adequação das instalações para atender �
 
 ## Situação atual
 
-O levantamento dos circuitos de energia elétrica do condomínio destaca o alimentador da Light que abastece os circuitos de entrada, em um armário próximo à sede: 
+O levantamento dos circuitos de energia elétrica do condomínio tem origem no alimentador da Light que abastece os circuitos da sede e dos blocos 1 e 2, no armário  externo próximo à churrasqueira da sede: 
 
 - alimentação geral da sede, blocos 1 e 2;
 - alimentação da sede;
