@@ -66,7 +66,7 @@ A foto abaixo mostra o medidor de energia da sede e aparentemente dois circuitos
 
 Está sendo considerada também a substituição dos disjuntores do armário da sede por modelos mais modernos, além da revisão da fiação e identificação das fases em todos os circuitos existentes.
 
-### 3. Próximos passos
+## Próximos passos
 
 Um levantamento interno dos circuitos, desde o Quadro Geral da Sede e prosseguindo até os pontos de energia elétrica disponíveis na sede permitirá identificar a capacidade e o dimensionamento dos disjuntores e circuitos já existentes. Há previsão de se identificar ainda pelo menos mais dois quadros de energia elétrica:
 
