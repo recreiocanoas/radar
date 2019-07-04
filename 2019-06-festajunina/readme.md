@@ -4,7 +4,7 @@
 
 Conforme item da reunião dos conselhos de 8/6/2019:
 
-- 12- FESTA JUNINA: Foi sugerido pela maioria, criar uma comissão para emitir um Regulamento para concorrência das barracas e valores da festa. Srª Isadora, ficou de organizar a comissão para inicio na emissão do Regulamento. OBS: A festa junina da comunidade será nas datas ~~12,13 e 14~~ 5 e 6 de julho.
+- 12- FESTA JUNINA: Foi sugerido pela maioria, criar uma comissão para emitir um Regulamento para concorrência das barracas e valores da festa. Srª Isadora, ficou de organizar a comissão para inicio na emissão do Regulamento. OBS: A festa junina da comunidade será nas datas ~~12,13 e 14~~ 19 e 20 de julho.
 
 ## Guia da festa junina de Canoas
 
