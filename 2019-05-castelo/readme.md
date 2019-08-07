@@ -9,7 +9,7 @@ Este projeto tem o objetivo de monitorar o abastecimento de água do condomínio
 
 ![Castelo](https://i.imgur.com/PHaHO0v.png)
 
-Internamente, temos um reservatório cilíndrico circular fechado, parecido com uma forma de bolo. O acesso se dá exclusivamente por uma escada embaixo do reservatório, localizada no centro da forma. Como mostra a foto abaixo, o nível da água pode ser visto do topo da escada.
+Internamente, temos um reservatório cilíndrico circular fechado, parecido com uma fôrma de bolo. O acesso se dá exclusivamente por uma escada embaixo do reservatório, localizada no centro da forma. Como mostra a foto abaixo, o nível da água pode ser visto do topo da escada.
 
 ![Reservatório](https://i.imgur.com/1AcOmRi.png)
 
