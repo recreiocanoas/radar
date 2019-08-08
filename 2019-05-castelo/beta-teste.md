@@ -29,7 +29,7 @@ Seguem abaixo algumas das informações obtidas com a entrada em beta-teste do s
 
 A partir deste painel, a coluna da esquerda indica a percentagem existente do volume de água, além da altura da linha d'água. A coluna central monitora  a temperatura e umidade no interior do sensor, a iluminância no interior da caixa d'água, bem como a distância medida pelo sensor laser ToF (Time of Flight).
  
-![](https://i.imgur.com/XxwDZus.png)
+![](https://i.imgur.com/N8SIX0k.png)
 
 A coluna da direita monitora o computador utilizado no sensor, indicando dados de memória, uso de disco e da rede, além da temperatura do processador.
 
