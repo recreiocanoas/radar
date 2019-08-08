@@ -46,7 +46,7 @@ Segue a descrição das medidas:
 - O segundo gráfico mostra as temperaturas interna do sensor e do GPU do computador;
 
 - Os gráficos da terceira linha representam a umidade e uso do processador;
-- O quarto gráfico indica a luminosidade no interior da caixa d'água e serve para alertar quando a lâmpada interna está acesa.
+- O quarto gráfico indica a luminosidade no interior da caixa d'água e alerta quando a lâmpada interna está acesa.
 - Os gráficos da última linha indicam utilização de memória e da rede de dados que foi ligada no dia 8/8/2019.
 
 ![](https://i.imgur.com/IaiIsqt.png)
