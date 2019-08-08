@@ -35,7 +35,7 @@ A coluna da direita monitora o computador utilizado no sensor, indicando dados d
 
 ### Histórico
 
-Pode-se obter gráficos do comportamento das medidas ao longo de 1 dia, 3 dias ou de 1 semana, como mostram as imagens obtidas a seguir:
+Pode-se obter gráficos do comportamento das medidas ao longo de 1 dia, 3 dias ou de 1 semana, como mostram as imagens de nosso consumo REAL em agosto 2019, mostradas a seguir:
 
 #### 1 dia
 
