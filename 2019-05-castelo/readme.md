@@ -2,7 +2,8 @@
 
 # Projeto Água do Castelo
 
-Link para **[Painel Supervisor](http://recreiocanoas.ddns.net:8123 "Painel Supervisor")**
+#### Instalação de sensor de nível de água em tempo real no reservatório do Castelo.
+
 ## Descrição sumária
 
 Este projeto tem o objetivo de monitorar o abastecimento de água do condomínio, realizado através de um poço artesiano que bombeia água para um reservatório que carinhosamente apelidamos de Castelo, mostrado na foto abaixo. Em seguida, a água deste reservatório abastece as caixas d'água de todos os blocos do condomínio.
