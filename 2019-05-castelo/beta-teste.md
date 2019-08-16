@@ -4,6 +4,18 @@
 
 #### Instalação de sensor de nível de água em tempo real no reservatório do Castelo.
 
+## Beta teste
+
+Entrou em fase de testes o sensor de nível de água em tempo real no reservatório do Castelo.
+
+O painel visto abaixo informa, no topo da coluna da esquerda, a capacidade de água em tempo real do reservatório. No caso, a caixa está com 74.3% da sua capacidade. Abaixo, o gráfico da Linha d'Água mostra o histórico recente do nível de água do Castelo, permitindo a análise de tendências e alarmes em situações críticas. 
+
+![](https://i.imgur.com/MfTQ5Zu.png)
+
+Na coluna da direita, há medidas de temperatura e umidade do interior do equipamento, com o objetivo de avaliar o seu comportamento. Temos também indicação da luminosidade dentro da caixa d'água, o que indicaria lâmpada interna acesa. A seguir duas medidas complementares, a primeira é a distância medida até a água, a partir do sensor laser localizado no teto. A medida da Linha d'Água é calculada então, representando a altura da água na caixa. Ambas variam em tempo real, conforme a vazão e o enchimento do reservatório.
+
+Na parte inferior, algumas medidas relativas ao computador utilizado pelo sensor, indicando o nível de comprometimento dos recursos disponíveis, como utilização da CPU, memória, comunicação e temperatura do processador. 
+
 ## Medições
 
 Medições realizadas no Castelo indicam que a parte útil da caixa d'água tem uma altura média estimada em 2.91 metros. A seguir estão indicadas as demais medidas do castelo: 
