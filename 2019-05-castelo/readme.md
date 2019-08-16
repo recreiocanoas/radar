@@ -4,33 +4,75 @@
 
 #### Instalação de sensor de nível de água em tempo real no reservatório do Castelo.
 
-## Descrição sumária
+## Beta teste
 
-Este projeto tem o objetivo de monitorar o abastecimento de água do condomínio, realizado através de um poço artesiano que bombeia água para um reservatório que carinhosamente apelidamos de Castelo, mostrado na foto abaixo. Em seguida, a água deste reservatório abastece as caixas d'água de todos os blocos do condomínio.
+Entrou em fase de testes o sensor de nível de água em tempo real no reservatório do Castelo.
 
-![Castelo](https://i.imgur.com/PHaHO0v.png)
+O painel visto abaixo informa, no topo da coluna da esquerda, a capacidade de água em tempo real do reservatório. No caso, a caixa está com 74.3% da sua capacidade. Abaixo, o gráfico da Linha d'Água mostra o histórico recente do nível de água do Castelo, permitindo a análise de tendências e alarmes em situações críticas. 
+
+![](https://i.imgur.com/MfTQ5Zu.png)
+
+Na coluna da direita, há medidas de temperatura e umidade do interior do equipamento, com o objetivo de avaliar o seu comportamento. Temos também indicação da luminosidade dentro da caixa d'água, o que indicaria lâmpada interna acesa. A seguir duas medidas complementares, a primeira é a distância medida até a água, a partir do sensor laser localizado no teto. A medida da Linha d'Água é calculada então, representando a altura da água na caixa. Ambas variam em tempo real, conforme a vazão e o enchimento do reservatório.
+
+Na parte inferior, algumas medidas relativas ao computador utilizado pelo sensor, indicando o nível de comprometimento dos recursos disponíveis, como utilização da CPU, memória, comunicação e temperatura do processador. 
+
+## Medições
+
+Medições realizadas no Castelo indicam que a parte útil da caixa d'água tem uma altura média estimada em 2.91 metros. A seguir estão indicadas as demais medidas do castelo: 
+
+![](https://i.imgur.com/2mHKGsF.png)
+
+A base do sensor ToF, de onde se iniciam a contagem das medidas de distância, está localizado a 15 cm de altura, contados a partir da borda superior do reservatório.
+
+Sendo assim, temos as seguintes medidas extremas quando a caixa estiver cheia e vazia:
+
+- Reservatório cheio: o sensor deverá medir  150 mm;
+- Reservatório vazio: o sensor deverá medir 3006 mm = 150 + 2910 mm;
 
 Internamente, temos um reservatório cilíndrico circular fechado, parecido com uma fôrma de bolo. O acesso se dá exclusivamente por uma escada embaixo do reservatório, localizada no centro da forma. Como mostra a foto abaixo, o nível da água pode ser visto do topo da escada.
 
 ![Reservatório](https://i.imgur.com/1AcOmRi.png)
 
-Pois é exatamente isso que um colaborador nosso faz todos os dias ao raiar do dia, faça chuva ou sol, para informar à administração a situação do abastecimento de água do condomínio. Não é preciso lembrar a importância desta tarefa, pois a água de todos depende do perfeito funcionamento deste sistema de abastecimento. O volume do reservatório, segundo dados da administração, é suficiente para menos de um dia de fornecimento.
+## Resultados
 
-O indicador do **nível da água do reservatório** é, portanto, uma medida fundamental para a administração poder agir rapidamente em caso de falhas.
+Seguem abaixo algumas das informações obtidas com a entrada em beta-teste do sensor de nível de água em tempo real no reservatório do Castelo.
 
-### Detalhes do projeto
+### Painel em tempo real
 
-Este projeto vem sendo desenvolvido há algum tempo, com o objetivo de dotar a administração de uma ferramenta que indique o **nível de água do Castelo em tempo real**. Isso permitiria a rápida identificação de problemas e agilizaria a tomada de decisão de  eventuais reparos. Além disso, o monitoramento em tempo real permitiria acompanhar o processo de reparo até a normalização da situação. Hoje em dia, isso é realizado através de sucessivas subidas e descidas ao topo do Castelo, realizadas por nossos funcionários, até que a "caixa esteja enchendo" corretamente. O indicador de nível da água em tempo real contribui  para a segurança da nossa equipe de colaboradores, diminuindo o risco de acidentes de trabalho. 
+A partir deste painel, a coluna da esquerda indica a percentagem existente do volume de água, além da altura da linha d'água. A coluna central monitora  a temperatura e umidade no interior do sensor, a iluminância no interior da caixa d'água, bem como a distância medida pelo sensor laser ToF (Time of Flight).
+ 
+![](https://i.imgur.com/N8SIX0k.png)
 
-Após algumas tentativas com sensores ultra sônicos que não deram certo, finalmente surgiu uma tecnologia denominada ToF (Time of Flight) baseada em um raio laser invisível que permite medir distâncias com precisão de milímetros. Abaixo o Painel do Supervisor de um protótipo que estará sendo testado nos próximos dias.
+A coluna da direita monitora o computador utilizado no sensor, indicando dados de memória, uso de disco e da rede, além da temperatura do processador.
 
-![Painel Supervisor](https://i.imgur.com/rWDB3bC.png)
+### Histórico
 
-Mais detalhes técnicos podem ser vistos no projeto [IoT.Hass.Farm](https://github.com/josemotta/IoT.Hass.Farm "IoT.Hass.Farm"), escrito em inglês, favor clicar o link abaixo:
+Pode-se obter gráficos do comportamento das medidas ao longo de 1 dia, 3 dias ou de 1 semana, como mostram as imagens de nosso consumo REAL em agosto 2019, mostradas a seguir:
 
-- **[ Projeto IoT.Hass.Farm](https://github.com/josemotta/IoT.Hass.Farm "IoT.Hass.Farm")**
+#### 1 dia
 
-Para traduzir para portugês com o navegador Chrome, clique no botão direito, como mostrado a seguir:
+Segue a descrição das medidas:
 
-![Tradução para Português](https://i.imgur.com/9MAkKZ7.png)
+- A primeira medida é a distância medida do topo da caixa até a água. Pode-se avaliar a  quantidade de água na caixa observando-se a parte superior da curva, até atingir a marca de 3 metros aproximadamente;
 
+- O segundo gráfico mostra as temperaturas interna do sensor e do GPU do computador;
+
+- Os gráficos da terceira linha representam a umidade e uso do processador;
+- O quarto gráfico indica a luminosidade no interior da caixa d'água e alerta quando a lâmpada interna está acesa.
+- Os gráficos da última linha indicam utilização de memória e da rede de dados que foi ligada no dia 8/8/2019.
+
+![](https://i.imgur.com/IaiIsqt.png)
+
+#### 3 dias
+
+Pode-se obter dados de períodos de três dias, o que nos permite avaliar o comportamento do consumo de água por longos períodos.
+
+![](https://i.imgur.com/TQ4kNdD.png)
+
+#### 1 semana
+
+Tendo em vista a análise do consumo, o gráfico do histórico semanal é bastante interessante. Esses são dados reais de nosso consumo na última semana e pode-se verificar que em diversos momentos, principalmente nos finais de semana a caixa chega a esvaziar quase que completamente. 
+
+![](https://i.imgur.com/y6Ak995.png)
+
+A entrada em operação deste sistema vai nos possibilitar o acompanhamento do  nosso consumo de água, hora a hora, dia a dia, de forma a estabelecer critérios para avaliação do sistema de fornecimento e embasar decisões futuras a respeito desse bem tão precioso que temos no condomínio Recreio das Canoas.
