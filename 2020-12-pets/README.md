@@ -19,7 +19,7 @@ No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
 | **CONFLITO**     | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| Objetivo         | **Saúde**  |  descrição do objetivo  |
+| Objetivo         | **SAÚDE**  |  descrição do objetivo  |
 | Requisito 1      | **nome do requisito** |  descrição do requisito |  
 | Pré 1            | **nome do requisito** |  descrição do requisito |   
 | Requisito 2      | **nome do requisito** |  descrição do requisito | 
