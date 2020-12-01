@@ -19,10 +19,11 @@ No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
 | **CONFLITO**     | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| Objetivo         | **SAÚDE**  |  O objetivo primordial é saúde para todos  |
-| Requisito 1      | **nome do requisito** |  descrição do requisito |  
+| Objetivo         | **SAÚDE**  |  O objetivo primordial é saúde para todos.  |
+| Requisito 1      | **Bom convívio** |  Cabe-nos escolher aqueles com quem iremos conviver. |  
 | Pré 1            | **nome do requisito** |  descrição do requisito |   
-| Requisito 2      | **nome do requisito** |  descrição do requisito | 
+| Requisito 2      | **Ambiente salutar** |  Temos uma convenção que orienta nosso convívio em áreas comuns. | 
+| Pré 1            | **nome do requisito** |  descrição do requisito |   
 
 Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
 
