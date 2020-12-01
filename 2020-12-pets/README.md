@@ -1,10 +1,10 @@
 #### CRRC Radar 2019
 
-# Nome-do-projeto
+# Conflito dos Pets
 
 ## Descrição sumária
 
-Descrição sumária aqui.....
+Segue uma análise sistêmica que utiliza a técnica do **Diagrama de Conflitos**, aplicado aos animais domésticos do condomínio.
 
 Seguem características do problema e fatos relevantes ...
 
