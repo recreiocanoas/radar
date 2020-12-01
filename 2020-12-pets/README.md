@@ -4,7 +4,7 @@
 
 ## Descrição sumária
 
-Segue uma análise sistêmica que utiliza a técnica do **Diagrama de Conflitos**, aplicado aos animais domésticos do condomínio.
+Segue uma análise sistêmica que utiliza a técnica do **Diagrama de Conflitos**, aplicada aos animais domésticos do nosso condomínio.
 
 Seguem características do problema e fatos relevantes ...
 
@@ -19,7 +19,7 @@ No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
 | **CONFLITO**     | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| Objetivo         | **nome do objetivo**  |  descrição do objetivo  |
+| Objetivo         | **Saúde**  |  descrição do objetivo  |
 | Requisito 1      | **nome do requisito** |  descrição do requisito |  
 | Pré 1            | **nome do requisito** |  descrição do requisito |   
 | Requisito 2      | **nome do requisito** |  descrição do requisito | 
