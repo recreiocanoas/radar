@@ -17,7 +17,7 @@ Para se estabelecer a linha de ação do projeto, é vital se estabelecer um dia
 
 No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
-| **CONFLITO**     | **Nome**              | **Descrição**           |  
+| **Componentes**     | **Nome**              | **Descrição**           |  
 | :---             |     :---             |          :---         |  
 | Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde para todos.  |
 | Requisito 1      | **Eu necessito um pet em minha vida.** |  Cabe-nos escolher com quem convivemos. |  
