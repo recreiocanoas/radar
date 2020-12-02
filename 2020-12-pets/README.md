@@ -18,9 +18,9 @@ Para se estabelecer a linha de ação do projeto, é vital se estabelecer um dia
 No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
 | **CONFLITO**     | **Nome**              | **Descrição**           |  
-| :---             |     :---:             |          :---:          |  
+| :---             |     :---             |          :---         |  
 | Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde para todos.  |
-| Requisito 1      | **Eu necessito conviver com um pet.** |  Cabe-nos escolher com quem convivemos. |  
+| Requisito 1      | **Eu necessito um pet em minha vida.** |  Cabe-nos escolher com quem convivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Eu necessito de um ambiente salutar.** |  Por isso, há uma convenção que orienta o nosso convívio nas áreas comuns. | 
 | Pré 1            | **O pet está sozinho nas áreas comuns.** |  O comportamento do pet não está sendo gerenciado pelo dono. |   
