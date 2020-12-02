@@ -21,9 +21,9 @@ No caso do projeto .... podemos identificar o conflito descrito abaixo:
 | :---             |     :---:             |          :---:          |  
 | Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde para todos.  |
 | Requisito 1      | **Eu necessito conviver com um pet.** |  Cabe-nos escolher com quem convivemos. |  
-| Pré 1            | **Eu trouxe o pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
+| Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Eu necessito de um ambiente salutar.** |  Por isso, há uma convenção que orienta o nosso convívio nas áreas comuns. | 
-| Pré 1            | **Tem um pet transitando sozinho nas áreas comuns.** |  O comportamento do pet não está sendo gerenciado pelo dono. |   
+| Pré 1            | **O pet está sozinho nas áreas comuns.** |  O comportamento do pet não está sendo gerenciado pelo dono. |   
 
 Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
 
