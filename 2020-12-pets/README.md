@@ -1,10 +1,14 @@
 #### CRRC Radar 2020
 
-# Conflito dos Pets
+# Pets
 
 ## Descrição sumária
 
-Segue uma análise sistêmica que utiliza a técnica do **Diagrama de Conflitos**, aplicada aos animais domésticos do nosso condomínio.
+Segue uma análise sistêmica técnica do **Diagrama de Conflitos**, aplicada aos animais domésticos do nosso condomínio.
+
+Para resumir o **Diagrama de Conflitos**, é preciso citar o físico israelense Eli Goldratt, autor do best seller "A Meta", traduzido para uma dúzia de idiomas, que revolucionou os processos de fabricação nos anos 80 e estabeleceu padrões mundias utilizados até hoje. Ele é o autor do **Teorema das Nuvens Evaporantes**, situação muito comum no meio empresarial, quando há um problema causado por um conflito que, a princípio, parece ser de impossível solução. A dificuldade fica sempre em decidir qual dos dois lados do conflito deve ser favorecida e o resultado em cima do muro não costuma agradar a nenhum dos lados. Ou seja, é como se houvesse uma nuvem negra pairando sobre nossas cabeças o tempo todo.
+
+Nesse ponto é que surge um diagrama que decompõe o conflito em partes, permitindo a todos uma análise técnica criteriosa de sua composição e eventuais pontos fracos. Através da análise do **Diagrama de Conflitos** é possível encontrar o ponto fraco do conflito e com isso, evaporar a nuvem negra e simplesmente desaparecer com o problema.
 
 Seguem características do problema e fatos relevantes ...
 
