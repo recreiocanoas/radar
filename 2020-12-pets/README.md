@@ -35,9 +35,9 @@ Uma breve análise das conexões que interligam os componentes do conflito permi
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
 | r1               | **O pet contribui com minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet para preencher a vida de alguma forma. |  
-| p1               | **O pet já faz parte da minha família.** |  Apesar de viver em uma moradia compacta com muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
-| r2               | **O ambiente de casa é vital para minha saúde física.** |  A paz e tranquilidade que nossa casa proporciona depende do ambiente em que vivemos.  |  
-| p2               | **Pet causa transtornos.** |  A falta do gerenciamento faz com que o pet decida sobre seu comportamento. |  
+| p1               | **O pet já faz parte da família.** |  Apesar de viver em uma moradia compacta e ter muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
+| r2               | **O ambiente residencial é vital para minha saúde física.** |  A paz e tranquilidade que nossa casa proporciona está intimamente relacionada ao ambiente em que vivemos.  |  
+| p2               | **Pet causa transtornos.** |  A falta do gerenciamento faz com que o pet decida sozinho sobre seu comportamento. |  
 | c                | **Pet abandonado pelo dono.** |  O pet mora aqui mas trafega sozinho nas áreas comuns. |      
 
 ## Outros pontos
