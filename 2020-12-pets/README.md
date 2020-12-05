@@ -25,8 +25,8 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 | Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde física e mental para todos.  |
 | Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
-| Requisito 2      | **Eu não abro mão do ambiente salutar.** |  Por isso, temos uma convenção que orienta o convívio nas áreas comuns. | 
-| Pré 1            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
+| Requisito 2      | **Eu preciso viver em um ambiente salutar.** |  Por isso, temos regras que orientam o convívio nas áreas comuns. | 
+| Pré 2            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
 
 ### Análise do Conflito
 
@@ -36,7 +36,7 @@ Uma breve análise das conexões que interligam os componentes do conflito permi
 | :---             |     :---:             |          :---:          |  
 | r1               | **O pet ajuda minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet para preencher a vida de alguma forma. |  
 | p1               | **O pet faz parte da família.** |  Apesar de viver em uma moradia compacta com muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
-| r2               | **nome do requisito** |  descrição do requisito |  
+| r2               | **O ambiente de casa é vital para minha saúde física.** |  A paz e tranquilidade que nossa casa proporciona depende do ambiente em que vivemos.  |  
 | p2               | **nome do requisito** |  descrição do requisito |  
 | c                | **nome do requisito** |  descrição do requisito |      
 
