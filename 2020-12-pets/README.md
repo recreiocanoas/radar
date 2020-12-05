@@ -15,7 +15,7 @@ Seguem características específicas do conflito e fatos relevantes ...
 
 ### Diagrama do Conflito
 
-Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o "Objetivo" depende do "Requisito 1" e do Requisito 2", através das conexões "r1" e 'r2'.
+Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o "Objetivo" depende do "Requisito 1" e do Requisito 2", através das conexões "r1" e 'r2'. `das`
 
 ![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
