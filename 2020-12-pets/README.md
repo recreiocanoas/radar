@@ -28,6 +28,8 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 | Requisito 2      | **Eu não abro mão do ambiente salutar.** |  Por isso, temos uma convenção que orienta o convívio nas áreas comuns. | 
 | Pré 1            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
 
+### Análise do Conflito
+
 Uma breve análise das conexões que interligam os componentes do conflito permite identificar seus possíveis pontos fracos:
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
