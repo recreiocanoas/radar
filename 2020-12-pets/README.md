@@ -32,8 +32,8 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| r1               | **O pet melhora minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Apesar de vivermos em moradias compactas, cabe-nos avaliar se podemos abrir espaço para um pet que irá encher nossa vida de alegria. |  
-| p1               | **** |  descrição do requisito |  
+| r1               | **O pet melhora minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet que preencheria nossa vida de alguma forma. |  
+| p1               | **O pet faz parte da família.** |  Apesar de viver em uma moradia compacta com muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
 | r2               | **nome do requisito** |  descrição do requisito |  
 | p2               | **nome do requisito** |  descrição do requisito |  
 | c                | **nome do requisito** |  descrição do requisito |      
