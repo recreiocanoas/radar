@@ -10,7 +10,7 @@ Para resumir o **Diagrama de Conflitos**, é preciso citar o físico israelense 
 
 Nesse ponto é preciso decompor o conflito em partes, permitindo uma análise criteriosa de sua composição. Através do diagrama, é possível encontrar o ponto fraco do conflito e, com isso, evaporar a nuvem negra. Quando isso acontece, a sensação é que simplesmente o problema simplesmente desapareceu como mágica.
 
-Seguem características do problema e fatos relevantes ...
+Seguem características específicas do conflito e fatos relevantes ...
 
 
 ### Diagrama do Conflito
