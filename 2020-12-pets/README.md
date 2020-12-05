@@ -26,7 +26,7 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 | Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Eu não abro mão do ambiente salutar.** |  Por isso, temos uma convenção que orienta o convívio nas áreas comuns. | 
-| Pré 1            | **O pet está desacompanhado em áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
+| Pré 1            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
 
 Uma breve análise das setas que interligam os elementos permite identificar possíveis pontos fracos no conflito:
 
