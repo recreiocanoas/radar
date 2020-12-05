@@ -18,12 +18,12 @@ Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que p
 
 Continuando com a decomposição, é preciso também identificar um **pré-requisito** para cada requisito, como visto acima, onde `Pre 1` está conectado ao `Requisito 1` através da conexão `p1` e `Pré 2` se relaciona com o `Requisito 2`, através da conexão `p2`. Finalmente, o conflito aparece entre os dois pré-requisitos, representado pela conexão `c`, na cor vermelha.
  
-No caso do projeto .... podemos identificar o conflito descrito abaixo:
+No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados:
 
 | **Componentes**     | **Nome**              | **Descrição**           |  
 | :---             |     :---             |          :---         |  
 | Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde para todos.  |
-| Requisito 1      | **Eu necessito um pet em minha vida.** |  Cabe-nos escolher com quem convivemos. |  
+| Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Eu não abro mão de um ambiente salutar.** |  Para isso, temos uma convenção que orienta o convívio nas áreas comuns. | 
 | Pré 1            | **O pet está sozinho nas áreas comuns.** |  O comportamento do pet não está sendo gerenciado pelo dono. |   
