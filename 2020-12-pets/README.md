@@ -34,7 +34,7 @@ Uma breve análise das conexões que interligam os componentes do conflito permi
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| r1               | **O pet melhora minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet que preencheria nossa vida de alguma forma. |  
+| r1               | **O pet ajuda minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet para preencher a vida de alguma forma. |  
 | p1               | **O pet faz parte da família.** |  Apesar de viver em uma moradia compacta com muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
 | r2               | **nome do requisito** |  descrição do requisito |  
 | p2               | **nome do requisito** |  descrição do requisito |  
