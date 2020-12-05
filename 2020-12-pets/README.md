@@ -4,7 +4,7 @@
 
 ## Descrição sumária
 
-Segue uma análise sistêmica do **Diagrama de Conflitos**, aplicada aos animais domésticos do nosso condomínio.
+Segue uma análise sistêmica do **Diagrama do Conflito**, aplicada aos animais domésticos do nosso condomínio.
 
 Seguem características específicas do conflito e fatos relevantes ...
 
