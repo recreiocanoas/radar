@@ -26,7 +26,7 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 | Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Não abro mão de viver em ambiente salutar.** |  Por isso, temos regras que orientam o convívio nas áreas comuns. | 
-| Pré 2            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não gerenciado causa transtornos. |   
+| Pré 2            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não está gerenciado pelo dono. |   
 
 ### Análise do Conflito
 
@@ -37,8 +37,8 @@ Uma breve análise das conexões que interligam os componentes do conflito permi
 | r1               | **O pet contribui com minha saúde mental.** |  Há vários motivos que levam alguém a ter um pet. Cabe-nos avaliar se há espaço para um pet para preencher a vida de alguma forma. |  
 | p1               | **O pet já faz parte da minha família.** |  Apesar de viver em uma moradia compacta com muitos vizinhos, quero conviver com meu pet o tempo todo e cuidar de todos os aspectos de sua vida. |  
 | r2               | **O ambiente de casa é vital para minha saúde física.** |  A paz e tranquilidade que nossa casa proporciona depende do ambiente em que vivemos.  |  
-| p2               | **nome do requisito** |  descrição do requisito |  
-| c                | **nome do requisito** |  descrição do requisito |      
+| p2               | **Pet causa transtornos.** |  A falta do gerenciamento faz com que o pet decida sobre seu comportamento. |  
+| c                | **Pet abandonado pelo dono.** |  O pet mora aqui mas trafega sozinho nas áreas comuns. |      
 
 ## Outros pontos
 
@@ -47,7 +47,3 @@ Detalhar a solução pretendida pelo projeto, procurando responder a três pergu
 - O que mudar?
 - Para o que mudar?
 - Como mudar?
-
-Teste diagrama
-
-![](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQXV0aG9yaXphdGlvbiBGbG93CgpVc2VyIC0-IENsaWVudDogTG9nIGludG8gSG9tZSBBc3Npc3RhbnQKABoGIC0-IFVzZXI6AEMJZSB1cmwgAD4JACgOOiBHbyB0bwAeBWFuZCBhAC0ICgBQDgB1DACBFw5jb2RlAHELAE4RZXQgdG9rZW5zIGZvcgAoBgBBGlQAJQUK&s=qsd)
