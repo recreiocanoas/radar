@@ -6,14 +6,11 @@
 
 Segue uma análise sistêmica técnica do **Diagrama de Conflitos**, aplicada aos animais domésticos do nosso condomínio.
 
-Para resumir o **Diagrama de Conflitos**, é preciso citar o físico israelense Eli Goldratt, autor do best seller "A Meta", traduzido para uma dúzia de idiomas, que revolucionou os processos de fabricação nos anos 80 e estabeleceu alguns padrões mundias utilizados até hoje. Ele é o autor do **Teorema das Nuvens Evaporantes**, situação muito comum no meio empresarial, quando há um problema causado por um conflito que, a princípio, parece ser de impossível solução. A dificuldade fica sempre em decidir qual dos dois lados do conflito deve ser favorecido e ficar em cima do muro não costuma agradar a nenhum dos lados da questão. Ou seja, é como se houvesse uma nuvem negra pairando sobre nossas cabeças o tempo todo.
-
-Nesse ponto é preciso decompor o conflito em partes, permitindo uma análise criteriosa de sua composição. Através do diagrama, é possível encontrar o ponto fraco do conflito e, com isso, evaporar a nuvem negra. Quando isso acontece, a sensação é que o problema simplesmente desapareceu como mágica.
-
 Seguem características específicas do conflito e fatos relevantes ...
 
-
 ### Diagrama do Conflito
+
+Para resumir o **Diagrama do Conflito**, é preciso citar o físico israelense Eli Goldratt, autor do best seller "A Meta", traduzido para uma dúzia de idiomas, que revolucionou os processos de fabricação nos anos 80 e estabeleceu alguns padrões mundias utilizados até hoje. Ele é o autor do **Teorema das Nuvens Evaporantes**, situação muito comum no meio empresarial, quando há um problema causado por um conflito que, a princípio, parece ser de impossível solução. A dificuldade fica sempre em decidir qual dos dois lados do conflito deve ser favorecido e ficar em cima do muro não costuma agradar a nenhum dos lados da questão. Ou seja, é como se houvesse uma nuvem negra pairando sobre nossas cabeças o tempo todo. Nesse ponto é preciso decompor o conflito em partes, permitindo uma análise criteriosa de sua composição. Através do diagrama, é possível encontrar o ponto fraco do conflito e, com isso, evaporar a nuvem negra. Quando isso acontece, a sensação é que o problema simplesmente desapareceu como mágica.
 
 Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o `Objetivo` depende do `Requisito 1` e do `Requisito 2`, através das conexões `r1` e `r2`.
 
