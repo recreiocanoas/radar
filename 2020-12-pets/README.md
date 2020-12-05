@@ -32,7 +32,7 @@ Uma breve análise das setas que interligam os elementos permite identificar pos
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
-| r1               | **Meu pet me traz felicidade.** |  Há vários motivos que levam alguém a ter um pet. Apesar de vivermos em moradias compactas, cabe-nos avaliar se podemos abrir espaço para um pet que irá encher nossa vida de alegria. |  
+| r1               | **O pet traz felicidade.** |  Há vários motivos que levam alguém a ter um pet. Apesar de vivermos em moradias compactas, cabe-nos avaliar se podemos abrir espaço para um pet que irá encher nossa vida de alegria. |  
 | p1               | **nome do requisito** |  descrição do requisito |  
 | r2               | **nome do requisito** |  descrição do requisito |  
 | p2               | **nome do requisito** |  descrição do requisito |  
