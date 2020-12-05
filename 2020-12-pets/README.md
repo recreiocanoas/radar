@@ -15,11 +15,11 @@ Seguem características específicas do conflito e fatos relevantes ...
 
 ### Diagrama do Conflito
 
-Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o `Objetivo` depende do `Requisito 1` e do Requisito 2", através das conexões `r1` e `r2`.
+Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o `Objetivo` depende do `Requisito 1` e do `Requisito 2`, através das conexões `r1` e `r2`.
 
 ![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
- É preciso também identificar para cada requisito um **pré-requisito** conflitantes, como mostra a figura a seguir:
+Continuando com a decomposição, é preciso também identificar um **pré-requisito** para cada requisito, como visto acima, onde `Pre 1` está conectado ao `Requisito 1` através da conexão `p1` e `Pré 2` se relaciona com o `Requisito 2`, através da conexão `p2`. Finalmente, o conflito aparece entre os dois pré-requisitos, representado pela conexão `c`, na cor vermelha.
  
 No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
