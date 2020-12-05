@@ -15,10 +15,12 @@ Seguem características específicas do conflito e fatos relevantes ...
 
 ### Diagrama do Conflito
 
-Para se estabelecer a linha de ação do projeto, é vital se estabelecer um diagrama que permite a análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um objetivo e dois requisitos que possuam pré-requisitos conflitantes, como mostra a figura a seguir:
+Para se estabelecer a linha de ação, é vital se estabelecer um diagrama que permita uma análise detalhada do conflito. Para que essa estratégia funcione, é preciso que sejam identificados um **objetivo** e dois **requisitos** a ele relacionados. No diagrama a seguir, o "Objetivo" depende do "Requisito 1" e do Requisito 2".
 
 ![Diagrama do Conflito](https://i.imgur.com/HO7bWxJ.png)
 
+ É preciso também identificar para cada requisito um **pré-requisito** conflitantes, como mostra a figura a seguir:
+ 
 No caso do projeto .... podemos identificar o conflito descrito abaixo:
 
 | **Componentes**     | **Nome**              | **Descrição**           |  
