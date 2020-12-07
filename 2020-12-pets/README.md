@@ -22,7 +22,7 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 
 | **Componentes**     | **Nome**              | **Descrição**           |  
 | :---             |     :---             |          :---         |  
-| Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde física e mental para todos.  |
+| ✅ Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde física e mental para todos.  |
 | Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
 | Requisito 2      | **Não abro mão de viver em ambiente salutar.** |  Por isso, temos regras que orientam o convívio nas áreas comuns. | 
