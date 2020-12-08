@@ -66,7 +66,7 @@ Cabe também avaliar nosso relacionamento com os animais silvestres como micos, 
 
 ## Conclusão
 
-Detalhar a solução pretendida, procurando responder três perguntas:
+Detalhar a solução pretendida, procurando responder a três perguntas:
 
 - O que mudar?
 - Para o que mudar?
