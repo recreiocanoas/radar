@@ -48,7 +48,7 @@ A experiência com os cães é baseada na `regra` atual em vigor, abaixo listada
 
 **"Os cães devem usar coleiras para transitar nas áreas comuns do condomínio com seus donos, sob pena de multa."**
 
-À luz dessa `regra`, fica bem claro que há uma solução no Diagrama do Conflito, pois tanto o `Pré 2` quanto a conexão `c` passam a ser pontos fracos do conflito. Com isso, o conflito desaparece, pois o dono monitora o comportamento do(s) seu(s) cão(âes) o tempo todo, além de recolher e dar destino apropriado às suas fezes. Portanto, no caso dos cães, o regramento atual tem sido suficiente para evitar maiores conflitos.
+À luz dessa `regra`, fica bem claro que há uma solução no Diagrama do Conflito, pois tanto o `Pré 2` quanto a conexão `c` passam a ser pontos fracos do conflito. Com isso, o conflito desaparece, pois o dono monitora o comportamento do(s) seu(s) cão(ães) o tempo todo, além de recolher e dar destino apropriado às fezes. Portanto, no caso dos cães, o regramento atual tem sido suficiente para evitar maiores conflitos.
 
 #### Gatos
 
@@ -57,6 +57,7 @@ Já nos caso dos gatos, a experiência mostra que a `regra` da coleira não é u
 - **Gatos fazem suas necessidades nas áreas comuns**: estando desacompanhados), cabe aos gatos a tomada de decisão sobre onde irão mijar e cagar. Mesmo aqueles que tem locais próprios destinados dentro de casa, são impelidos por instinto a deixar suas marcas em locais estratégicos.
 - **Surgem "hot points" na áreas comuns**: a partir da escolha de um local, todos os demais gatos passam a utilizar o ponto escolhido. Repara-se que esse comportamento é influenciado por condições climáticas, ou seja, em dias de chuva, os gatos evitam molhar os pés e dão preferência aos corredores e escadas de acesso interno dos blocos.
 - **Os gatos interagem com diversos animais**: estando desacompanhados, é natural que os gatos passem a se relacionar com os outros animais presentes nas áreas comuns do condomínio. Isso inclui outros gatos, também desacompanhados, como também os animais silvestres, como micos, passáros, lagartos e ratos. Como consequência, ocorrem casos de gatos trazendo suas caças para casa, ratinhos por exemplo. A interação ocorre também por instinto, em caso de gatas no cio que, mesmo trancadas dentro de casa, atraem gatos soltos que miam de madrugada em serenatas perturbadoras para o silêncio que é uma característica invejada em nosso condomínio.
+- **Aumento nos gastos de limpeza**:  A solução prática que vem sendo utilizada até o momento não é eficiente, pois cabe aos moradores identificar o comportamento inadequado dos gatos e acionar a administração do condomínio para reparar os danos, já que o `Requisito 2` é muito forte e não pode ser desrespeitado. Com isso, é preciso alocar um funcionário para cuidar das emergências criadas pelos gatos desacompanhados.
 
 #### Animais Silvestres
 
