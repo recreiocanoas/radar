@@ -30,7 +30,7 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 
 ### Análise do Conflito
 
-Uma breve análise das conexões que interligam os componentes do conflito permite identificar seus possíveis pontos fracos:
+A análise das conexões que interligam os componentes do conflito permite identificar possíveis pontos fracos:
 
 | **ANÁLISE**      | **Nome**              | **Descrição**           |  
 | :---             |     :---:             |          :---:          |  
