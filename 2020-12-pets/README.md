@@ -46,16 +46,17 @@ Realizando uma análise do conflito de acordo com a raça dos animais existentes
 
 A experiência com os cães revela que a `regra` atual existente vem sendo bem aceita por todos:
 
-"Os cães devem usar coleiras para transitar nas áreas comuns do condomínio com seus donos, sob pena de multa."
+**"Os cães devem usar coleiras para transitar nas áreas comuns do condomínio com seus donos, sob pena de multa."**
 
-À luz dessa `regra`, fica bem claro que há uma solução no Diagrama do Conflito, pois tanto o `Pré 2` quanto a conexão `c` passam a ser pontos fracos do conflito. Com isso, o conflito desaparece, pois o dono estará monitorando o comportamento do(s) seu(s) cão(âes) o tempo todo, recolhendo e dando destino apropriado às fezes, etc.
+À luz dessa `regra`, fica bem claro que há uma solução no Diagrama do Conflito, pois tanto o `Pré 2` quanto a conexão `c` passam a ser pontos fracos do conflito. Com isso, o conflito desaparece, pois o dono estará monitorando o comportamento do(s) seu(s) cão(âes) o tempo todo, além de recolher e dar destino apropriado às suas fezes. Portanto, no caso dos cães, o regramento atual tem sido suficiente para evitar maiores conflitos.
 
 #### Gatos
 
-Já nos caso dos gatos, a experiência tem mostrado que a `regra` da coleira não vem sendo utilizada, ou seja, `Pré 2` e `c` são elos fortes do conflito. Tendo em vista essa realidade, pode-se prosseguir na análise com os problemas decorrentes que vem sendo observados:
+Já nos caso dos gatos, a experiência mostra que a `regra` da coleira não é utilizada, ou seja, `Pré 2` e `c` são elos fortes do conflito. Tendo em vista essa realidade, pode-se prosseguir na análise com os problemas decorrentes que vem sendo observados:
 
 - **Gatos fazem suas necessidades nas áreas comuns**: estando desacompanhados), cabe aos gatos a tomada de decisão sobre onde irão mijar e cagar. 
-- **Surgem "hot points" na áreas comuns**: a partir da escolha de um local, 
+- **Surgem "hot points" na áreas comuns**: a partir da escolha de um local, todos os demais gatos passam a utilizar o ponto escolhido. Repara-se que esse comportamento é influenciado por condições climáticas, ou seja, em dias de chuva, os gatos evitam molhar os pés e dão preferência aos corredores e escadas de acesso internos dos blocos.
+- **Os gatos interagem entre si**: estando desacompanhados, é natural que os gatos passem a se relacionar com os outros animais presentes nas áreas comuns do condomínio. Isso inclui outros gatos, também desacompanhados, como também os animais silvestres, como micos, passáros, lagartos e ratos. Como consequência, ocorrem casos de gatos trazendo suas caças para casa, ratinhos por exemplo. A interação ocorre também por instinto, em caso de gatas no cio por exemplo que, mesmo trancadas em casa, atraem gatos soltos para sua porta miando de madrugada.
 
 #### Animais Silvestres
 
