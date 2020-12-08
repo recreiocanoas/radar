@@ -40,7 +40,7 @@ A análise das conexões que interligam os componentes do conflito permite ident
 | ✅ p2               | **Pet causa transtornos.** |  A falta do gerenciamento faz com que o pet decida sobre seu comportamento. |  
 | ✅ c                | **Pet abandonado pelo dono.** |  O pet mora aqui mas trafega sozinho nas áreas comuns. |      
 
-Realizando uma análise do conflito de acordo com a raça dos animais existentes em nosso condomínio, podemos estabelecer soluções diferentes, mais eficazes para cada caso.
+Realizando uma análise do conflito de acordo com a raça dos animais existentes em nosso condomínio, podemos estabelecer soluções eficazes para cada caso.
 
 #### Cães
 
