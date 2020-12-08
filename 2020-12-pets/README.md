@@ -62,7 +62,7 @@ Já nos caso dos gatos, a experiência mostra que a `regra` da coleira não é u
 
 #### Animais Silvestres
 
-Cabe também avaliar nosso relacionamento com os animais silvestres como micos, macacos prego, gambás e esquilos, entre outros. Esse animais não moram conosco em casa mas transitam nas árvores e áreas próximas dos blocos. Utilizando o Diagrama do Conflito, conclui-se que devemos manter uma distância segura, para que o `Pré 2` não se torne um elo forte. Alimentar os animais em nossas janelas atraem problemas como pode ser visto nas [reportagens](/_arquivo/2019-06-welcomekit/micos.pdf).
+Cabe também avaliar nosso relacionamento com os animais silvestres como micos, macacos prego, gambás e esquilos, entre outros. Esse animais não moram conosco em casa mas transitam nas árvores e áreas próximas dos blocos. Utilizando o Diagrama do Conflito, conclui-se que devemos manter uma distância segura, para que o `Pré 1` não se torne um elo forte. Alimentar os animais em nossas janelas atraem problemas como pode ser visto nas [reportagens](/_arquivo/2019-06-welcomekit/micos.pdf).
 
 ## Conclusão
 
