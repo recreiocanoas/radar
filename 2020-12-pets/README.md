@@ -6,7 +6,7 @@
 
 Segue uma análise sistêmica do **Diagrama do Conflito**, aplicada aos animais domésticos do nosso condomínio.
 
-Seguem características específicas do conflito e fatos relevantes ...
+Seguem características específicas do conflito e fatos relevantes ... (TODO)
 
 ### Diagrama do Conflito
 
@@ -25,7 +25,7 @@ No nosso caso, podemos identificar os seguintes componentes, abaixo relacionados
 | ✅ Objetivo         | **SAÚDE PARA TODOS!**  |  O objetivo primordial é saúde física e mental para todos.  |
 | Requisito 1      | **Eu preciso de um pet em minha vida.** |  Cabe-nos escolher a forma como vivemos. |  
 | Pré 1            | **Eu trago um pet para morar comigo.** |  Para minha felicidade, tenho em casa um ou mais pets. |   
-| Requisito 2      | **Não abro mão de viver em ambiente salutar.** |  Por isso, temos regras que orientam o convívio nas áreas comuns. | 
+| Requisito 2      | **Não abro mão de um ambiente salutar.** |  Por isso, temos regras que orientam o convívio nas áreas comuns. | 
 | Pré 2            | **Pet desacompanhado nas áreas comuns.** |  O comportamento do pet não está gerenciado pelo dono. |   
 
 ### Análise do Conflito
@@ -40,10 +40,31 @@ Uma breve análise das conexões que interligam os componentes do conflito permi
 | p2               | **Pet causa transtornos.** |  A falta do gerenciamento faz com que o pet decida sozinho sobre seu comportamento. |  
 | c                | **Pet abandonado pelo dono.** |  O pet mora aqui mas trafega sozinho nas áreas comuns. |      
 
-## Outros pontos
+Realizando uma análise do conflito de acordo com a raça dos animais existentes em nosso condomínio, podemos estabelecer soluções diferentes, mais eficazes para cada caso.
 
-Detalhar a solução pretendida pelo projeto, procurando responder a três perguntas:
+#### Cães
+
+A experiência com os cães revela que a `regra` atual existente vem sendo bem aceita por todos:
+
+"Os cães devem usar coleiras para transitar nas áreas comuns do condomínio com seus donos, sob pena de multa."
+
+À luz dessa `regra`, fica bem claro que há uma solução no Diagrama do Conflito, pois tanto o `Pré 2` quanto a conexão `c` passam a ser pontos fracos do conflito. Com isso, o conflito desaparece, pois o dono estará monitorando o comportamento do(s) seu(s) cão(âes) o tempo todo, recolhendo e dando destino apropriado às fezes, etc.
+
+#### Gatos
+
+Já nos caso dos gatos, a experiência tem mostrado que a `regra` da coleira não vem sendo utilizada, ou seja, `Pré 2` e `c` são elos fortes do conflito. Tendo em vista essa realidade, pode-se prosseguir na análise com os problemas decorrentes que vem sendo observados:
+
+- **Gatos fazem suas necessidades nas áreas comuns**: estando desacompanhados), cabe aos gatos a tomada de decisão sobre onde irão mijar e cagar. 
+- **Surgem "hot points" na áreas comuns**: a partir da escolha de um local, 
+
+#### Animais Silvestres
+
+## Conclusão
+
+Detalhar a solução pretendida, procurando responder três perguntas:
 
 - O que mudar?
 - Para o que mudar?
 - Como mudar?
+
+(TODO)
