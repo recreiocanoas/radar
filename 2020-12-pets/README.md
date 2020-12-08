@@ -44,7 +44,7 @@ Realizando uma análise do conflito de acordo com a raça dos animais existentes
 
 #### Cães
 
-A experiência com os cães revela que a `regra` atual existente vem sendo bem aceita por todos:
+A experiência com os cães é baseada na `regra` atual em vigor, abaixo listada e que vem sendo bem aceita por todos:
 
 **"Os cães devem usar coleiras para transitar nas áreas comuns do condomínio com seus donos, sob pena de multa."**
 
