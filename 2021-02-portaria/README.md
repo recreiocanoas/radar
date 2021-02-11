@@ -1,8 +1,8 @@
 # CRRC Irregularidades na Obra na Portaria
 
 
-De:   Jose Motta - bloco 2 - Apt 128/129
-Para: Administração do CRRC
+### De:   Jose Motta - bloco 2 - Apt 128/129  
+### Para: Administração do CRRC
 
 Caros,
 
@@ -22,5 +22,6 @@ As seguintes irregularidades, abaixo listadas, motivam esta advertência:
 
 Sendo assim, solicito que a obra da protaria seja interrompida imediatamente e que sejam sanadas as irregularidades e vícios desse procedimento. Favor informar o responsável técnico pela obra pela qual estamos pagando com nossas cotas infladas do condomínio. O processo de decisão para gasto dos recursos deve ser revisto e obedecer aos critérios estabeleciddos em nossa convenção.
 
-At,
-Jose Motta - CREA/RJ 25.534/77
+At,  
+Jose Motta  
+CREA/RJ 25.534/77
