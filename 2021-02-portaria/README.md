@@ -8,7 +8,7 @@ Tendo em vista a realização de obras na portaria do condomínio, localizada na
 
 As seguintes irregularidades, abaixo listadas, motivam esta advertência:
 
-- **OBRA SEM AUTORIZAÇÂO DA ASSEMBLÉIA**: A obra supostamente pretende demolir a portaria atual para dar lugar a uma nova fachada para o CRRC, após muitas décadas de existência do condomínio. Era de se supor que uma intervenção dessa magnitude fosse precedida de uma prestação de contas da administração sobre detalhes de orçamento, arquitetura e execução da obra. Pela ata da última assembléia de condôminos, a previsão orçamentária aprovada não listava esta obra de maior envergadura. Temos então duas alternativas: ou há recursos de caixa sobrando para honrar tal compromisso ou haverá em breve falta de recursos para o orçamento aprovado. Lembro que obras de grande porte devem, ser obrigatoriamente aprovadas em assembléia.
+- **OBRA SEM AUTORIZAÇÃO DA ASSEMBLÉIA**: A obra supostamente pretende demolir a portaria atual para dar lugar a uma nova fachada para o CRRC, após muitas décadas de existência do condomínio. Era de se supor que uma intervenção dessa magnitude fosse precedida de uma prestação de contas da administração sobre detalhes de orçamento, arquitetura e execução da obra. De acordo com a última assembléia de condôminos, a previsão orçamentária aprovada não listava esta obra de maior envergadura. Temos então duas alternativas: ou há recursos de caixa sobrando para honrar tal compromisso ou haverá em breve falta de recursos para o orçamento aprovado. Lembro que obras de grande porte devem, ser obrigatoriamente aprovadas em assembléia.
 
 - **FALTA PLACA DA OBRA & RESPONSÁVEL TÉCNICO**: Como pode ser observado na foto abaixo não há placa indicando o licenciamento, nem responsável técnico, apesar da obra ser grande o suficiente para tal. Sendo o local da obra na beirada da Estrada da Canoas, estamos sujeitos a uma fiscalização que poderá nos aplicar multas. Mais uma vez lembro que os condôminos não podem ser penalizados por ações impróprias da administração.
 
@@ -18,7 +18,7 @@ As seguintes irregularidades, abaixo listadas, motivam esta advertência:
 
 ![obra-portaria-1](https://user-images.githubusercontent.com/86032/107686808-6faca380-6c84-11eb-8c79-32ca059e05d4.jpg)
 
-Sendo assim, solicito que a obra da protaria seja interrompida imediatamente e que sejam sanadas as irregularidades e vícios desse procedimento. Favor informar o responsável técnico pela obra pela qual estamos pagando com nossas cotas infladas do condomínio. O processo de decisão para gasto dos recursos deve ser revisto e obedecer aos critérios estabeleciddos em nossa convenção.
+Sendo assim, solicito que a presente obra da portaria seja interrompida imediatamente para que sejam sanadas as irregularidades e vícios de procedimento. Favor informar o responsável técnico pela obra pela qual estamos pagando com nossas cotas infladas do condomínio. O processo de decisão para gasto dos recursos deve ser revisto e obedecer aos critérios estabelecidos em nossa convenção. Inflar a taxa do condomínio não dá direito à administração de gastar os NOSSOS recursos, sem aprovação, em obras de grande porte.
 
 At,  
 Jose Motta  
