@@ -1,7 +1,5 @@
 # CRRC Irregularidades na Obra na Portaria
-
-
-### De:   Jose Motta - bloco 2 - Apt 128/129  
+  
 ### Para: Administração do CRRC
 
 Caros,
@@ -24,4 +22,5 @@ Sendo assim, solicito que a obra da protaria seja interrompida imediatamente e q
 
 At,  
 Jose Motta  
+Bloco 2/128-129
 CREA/RJ 25.534/77
