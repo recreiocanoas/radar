@@ -45,4 +45,4 @@ Não seria produtivo repetir em breve os mesmos procedimentos para melhoria da d
 
 Há que se considerar ainda a conexão de sinais entre os blocos, a sede, a portaria, piscina, etc. Mas esse é um assunto para ser tratado mais adiante na discussão do "para o que mudar".
 
-O objetivo é que todos colaborem na edição dessa página, mais [detalhes aqui](2021-03-eletrica).
+Para colaboração na edição dessa página, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).
