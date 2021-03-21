@@ -13,4 +13,6 @@ Seriam discussões pertinentes, por exemplo:
 - Devemos revisar caixas de passagem e cabos elétricos enterrados há mais de quinze anos?
 - A obra de reconstrução do estacionamento do bloco 1 danificou os dutos e cabos elétricos (do 1 e do 2)?
 - Haveria mais algo a incluir no projeto de distribuição? Água e gás, por exemplo?
+- Quais as opções que teríamos para passar cabos de distribuição pelos blocos?
+- Quais os materiais a serem usados e correspondentes tempos de vida útil?
 
