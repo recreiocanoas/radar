@@ -1,12 +1,8 @@
 # Distribuição Energia Elétrica Canoas
   
-## Grupo de trabalho
+## O que mudar
 
-Caros,
-
-Tenho evitado reuniões presenciais, conforme orientações das autoridades sanitárias, em virtude de estarmos no pior momento da pandemia Covid. Acredito que podemos realizar o planejamento de obras futuras, de forma eficiente e segura, utilizando as ferramentas mais apropriadas. Isso, a princípio, excluiria mensagens de texto do grupo WhatsApp que deveria se limitar a divulgação de recados curtos de conhecimento geral. Não imagino, contudo, haver condição de iniciarmos qualquer obra que envolva peões transitando pelos corredores.
-
-Vivendo aqui há mais de 32 anos, acompanho a renovação da nossa instalação elétrica desde os cabos aéreos que vinham da mata e alimentavam o bloco 2, bem acima de minha janela. A primeira grande obra, realizada na gestão do Sílvio, trouxe à tona uma discussão sobre a manutenção da rede aérea ou partirmos para uma rede subterrânea, tese que foi vencedora com a minha humilde contribuição. Fiquei satisfeito quando o Sílvio me falou que eu o havia convencido. Nesse dia, eu disse a ele que gostaria agora de convencê-lo a passar uma canaleta vazia junto com a instalação, contendo uma guia de arame para uma futura instalação de fibra ótica. Lembro que ele disse: aí já é demais! Lamento ter me dado por satisfeito e não ter insistido, pois hoje estaríamos em outro patamar de integração de dados.
+Vivendo no Bloco 2 há mais de 32 anos, acompanho a renovação da nossa instalação elétrica desde os cabos aéreos que vinham da mata e alimentavam o bloco 2, bem acima de minha janela. A primeira grande obra, realizada na gestão do Sílvio, trouxe à tona uma discussão sobre a manutenção da rede aérea ou partirmos para uma rede subterrânea, tese que foi vencedora com a minha humilde contribuição. Fiquei satisfeito quando o Sílvio me falou que eu o havia convencido. Nesse dia, eu disse a ele que gostaria agora de convencê-lo a passar uma canaleta vazia junto com a instalação, contendo uma guia de arame para uma futura instalação de fibra ótica. Lembro que ele disse: aí já é demais! Lamento ter me dado por satisfeito e não ter insistido, pois hoje estaríamos em outro patamar de integração de dados.
 
 Essa primeira obra, realizada há mais de vinte anos atrás, eliminou definitivamente as instabilidades elétricas que já se verificavam com o aumento da carga no condomínio. Através de cabeamento subterrâneo  apropriado, a rede elétrica da Light se conectou aos PCs dos blocos, conforme o diagrama a seguir:
 
@@ -17,14 +13,6 @@ Temos dois alimentadores da Light, um de cada lado do rio. O primeiro, localizad
 Uma segunda fase de revisão do sistema de distribuição elétrica do CRRC ocorreu há alguns anos, na gestão do Fábio, que incluiu a renovação dos PCs dos blocos. A reorganização da fiação trouxe maior segurança à instalação, permitiu a revisão de ligações clandestinas, viabilizou pedidos de aumento de carga (para ar condicionado split por exemplo) e contribuiu para estabilizar o fornecimento nas unidades residenciais do CRRC.
 
 Apesar das obras já realizadas até o momento terem sido de fundamental importância para a estabilidade da energia elétrica no condomínio, há um enorme desafio na última fase da distribuição de energia elétrica que inclui a conexão dos PCs com cada apartamento. Além disso, é crucial que seja realizada uma verificação da instalação existente, desde os cabos subterrâneos provenientes dos alimentadores da Light e suas respectivas caixas de passagem.
-
-Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos em paralelo:
-
-- **O que mudar**: avalia-se o que deve ser mudado com essa iniciativa.
-- **Para o que mudar**: discute-se as melhores alternativas e soluções para o problema.
-- **Como mudar**: organiza-se a melhor forma de atingir os objetivos.
-
-## O que mudar
 
 Para evitar riscos e antecipar contratempos, algumas perguntas surgem ao se tratar desse assunto, conforme já foi amplamente discutido no [projeto da rede  local](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas), realizado há mais de dez anos atrás:
 
@@ -57,12 +45,4 @@ Não seria produtivo repetir em breve os mesmos procedimentos para melhoria da d
 
 Há que se considerar ainda a conexão de sinais entre os blocos, a sede, a portaria, piscina, etc. Mas esse é um assunto para ser tratado mais adiante na discussão do "para o que mudar".
 
-## Para o que mudar
-
-## Como mudar
-
-
-At,  
-Jose Motta  
-Bloco 2/128-129  
-CREA/RJ 25.534/77
+O objetivo é que todos colaborem na edição dessa página, mais [detalhes aqui](2021-03-eletrica).

@@ -1,6 +1,6 @@
 # Distribuição Energia Elétrica Canoas
   
-## Grupo de trabalho
+### Para: Grupo de trabalho do CRRC
 
 Caros,
 
