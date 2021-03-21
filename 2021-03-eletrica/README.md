@@ -25,4 +25,6 @@ Não seria produtivo repetir em breve os mesmos procedimentos para melhoria da d
 - rede de distribuição de sinais de telefone, Internet e TV a cabo.
 - conexão de sinais entre os blocos, a sede, a portaria, piscina, etc.
 
+O novo-corona-virus já ficou velho e estamos detectando cepas brasileiras mais letais e contagiosas. Devemos  considerar o momento inadequado para obras? Seria arriscado introduzir novos peões e funcionários em nosso ambiente nesse momento?
+
 Para colaboração na edição dessas páginas, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).
