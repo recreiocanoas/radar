@@ -13,5 +13,7 @@ Seriam discussões pertinentes, por exemplo:
 - Haveria mais algo a incluir no projeto de distribuição? Água e gás, por exemplo?
 - Quais as opções que teríamos para passar cabos de distribuição pelos blocos?
 - Quais os materiais a serem usados e correspondentes tempos de vida útil?
+- Devemos fazer a obra toda do projeto de uma só vez?
+- Um projeto com tudo incluído deveria ser executado por partes?
 
 Para colaboração na edição dessa página, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).
