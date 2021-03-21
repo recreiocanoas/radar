@@ -2,7 +2,7 @@
 
 ## Como mudar
 
-Esta página é dedicada a nos ajudar a especificar como pretendemos fazer, tendo por base as necessidades e conclusões de "[O que mudar](2021-03-eletrica/1-o-que-mudar.md) e "[Para o que mudar](2021-03-eletrica/2-para-o-que-mudar.md). 
+Esta página é dedicada a nos ajudar a especificar como pretendemos fazer, tendo por base as necessidades e conclusões de "[O que mudar](1-o-que-mudar.md) e "[Para o que mudar](2-para-o-que-mudar.md). 
 
 Seriam discussões pertinentes, considerando que os proprietários de unidades residenciais do condomínio serão os investidores:
 

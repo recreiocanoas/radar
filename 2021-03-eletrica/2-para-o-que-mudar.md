@@ -2,7 +2,7 @@
 
 ## Para o que mudar
 
-Esta página é dedicada a nos ajudar a especificar o que pretendemos fazer, tendo por base as necessidades e conclusões de "[O que mudar](2021-03-eletrica/1-o-que-mudar.md). Devemos também considerar outros fatores como:
+Esta página é dedicada a nos ajudar a especificar o que pretendemos fazer, tendo por base as necessidades e conclusões de "[O que mudar](1-o-que-mudar.md). Devemos também considerar outros fatores como:
 
 - Estamos em um momento adequado para obras? A pandemia está no pior momento. Não seria adequado introduzir mais funcionários em nosso ambiente nesse momento de enorme dificuldade em lidar com o novo-corona-virus, que já ficou velho, e tem filhotes mais letais e contagiosos se espalhando.
 
