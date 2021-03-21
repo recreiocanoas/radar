@@ -2,7 +2,7 @@
 
 ## Para o que mudar
 
-Esta página é dedicada a nos ajudar a especificar o que pretendemos fazer, tendo por base "[O que mudar](1-o-que-mudar.md).
+Esta página é dedicada a nos ajudar a especificar o que pretendemos fazer, tendo por base [O que mudar](1-o-que-mudar.md).
 
 Seriam também discussões pertinentes, por exemplo:
 
