@@ -8,9 +8,9 @@ Conforme orientações das autoridades sanitárias, em virtude de estarmos no pi
 
 Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos em paralelo:
 
-- **[O que mudar](2021-03-eletrica/1-o-que-mudar.md)**: avalia-se o que deve ser mudado com essa iniciativa.
-- **[Para o que mudar](2021-03-eletrica/2-para-o-que-mudar.md)**: discute-se as melhores alternativas e soluções para o problema.
-- **[Como mudar](2021-03-eletrica/3-como-mudar.md)**: organiza-se a melhor forma de atingir os objetivos.
+- **[O que mudar](1-o-que-mudar.md)**: avalia-se o que deve ser mudado com essa iniciativa.
+- **[Para o que mudar](2-para-o-que-mudar.md)**: discute-se as melhores alternativas e soluções para o problema.
+- **[Como mudar](3-como-mudar.md)**: organiza-se a melhor forma de atingir os objetivos.
 
 Iremos iniciar uma obra que trará muitos inconvenientes para todos, pelas seguintes razões:
 
