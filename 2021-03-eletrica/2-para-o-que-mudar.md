@@ -4,7 +4,7 @@
 
 Esta página é dedicada a nos ajudar a especificar o que pretendemos fazer, tendo por base [O que mudar](1-o-que-mudar.md).
 
-Seriam também discussões pertinentes, por exemplo:
+Seriam discussões pertinentes, por exemplo:
 
 - Devemos incluir no projeto a rede de distribuição de sinais de telefone, Internet e TV a cabo?
 - Devemos incluir no projeto a infraestrutura de interligação dos blocos e a sede?
