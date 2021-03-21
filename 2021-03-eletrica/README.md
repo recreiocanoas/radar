@@ -23,10 +23,6 @@ Não seria produtivo repetir em breve os mesmos procedimentos para melhoria da d
 
 - rede de distribuição de energia elétrica;
 - rede de distribuição de sinais de telefone, Internet e TV a cabo.
+- conexão de sinais entre os blocos, a sede, a portaria, piscina, etc.
 
-Há que se considerar ainda a conexão de sinais entre os blocos, a sede, a portaria, piscina, etc. Mas esse é um assunto para ser tratado mais adiante na discussão do "para o que mudar".
-
-At,  
-Jose Motta  
-Bloco 2/128-129  
-CREA/RJ 25.534/77
+Para colaboração na edição dessas páginas, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).

@@ -16,3 +16,4 @@ Seriam discussões pertinentes, por exemplo:
 - Quais as opções que teríamos para passar cabos de distribuição pelos blocos?
 - Quais os materiais a serem usados e correspondentes tempos de vida útil?
 
+Para colaboração na edição dessa página, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).

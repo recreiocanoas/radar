@@ -15,3 +15,5 @@ Seriam discussões pertinentes, considerando que os proprietários de unidades r
 - Haverá um concurso de projetos que viabilizaria um debate sobre a melhor solução?
 - Os proprietários devem poder participar na escolha do melhor projeto?
 - Quem já investiu em melhoramentos em sua unidade vai ter que gastar de novo?
+
+Para colaboração na edição dessa página, utilize a página de [discussões](https://github.com/recreiocanoas/radar/discussions).
