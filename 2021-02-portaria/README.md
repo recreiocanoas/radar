@@ -21,7 +21,7 @@ Não há fiscalização por pessoal habilitado e isso inclui funcionários do CR
 Há portanto um constante risco aos funcionários da obra e do condomínio. Em virtude de estar localizada na beira da rua, estamos sujeitos a ser penalizados com multas e procedimentos legais por parte da fiscalização do munícipio da cidade do Rio de Janeiro.
 ![obra-portaria-2](https://github.com/recreiocanoas/redes/blob/main/img/obra-portaria5.jpg?raw=true)
 
-- **SERVIÇOS DEIXANDO DE SER FEITOS**: Em consequência da utilização dos funcionários do condomínio na obra, outros serviços urgentes deixam de ser realizados. Há mais de três meses, tempo que a obra da portaria está sendo feita, a laje do bloco 1 começou a desabar, como pode ser visto na foto abaixo.
+- **SERVIÇOS DEIXANDO DE SER FEITOS**: Em consequência da utilização dos funcionários do condomínio na obra, outros serviços urgentes deixam de ser realizados. Há mais de três meses, tempo que a obra da portaria está sendo feita, a laje do bloco 1 começou a desabar, como pode ser visto na foto abaixo.  
 ![b1 laje desabando](https://github.com/recreiocanoas/redes/blob/main/img/laje-b1a.jpg?raw=true)
 
 O estacionamento foi até interditado pela administração durante algum tempo. Este seria um serviço indicado para a valorosa equipe de reparos do CRRC mas nada tem sido feito nos últimos meses. O estacionamento que estava interditado já permite carros estacionados e até mesmo uma passarela localizada bem abaixo do local que está desabando é usada como passagem de pedestres, como mostra a foto.
