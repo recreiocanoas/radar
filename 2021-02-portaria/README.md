@@ -28,9 +28,7 @@ Há portanto um constante risco aos funcionários da obra e do condomínio. Em v
 O estacionamento foi até interditado pela administração durante algum tempo. Este seria um serviço indicado para a valorosa equipe de reparos do CRRC mas nada tem sido feito nos últimos meses. O estacionamento que estava interditado já permite carros estacionados e até mesmo uma passarela localizada bem abaixo do local que está desabando é usada como passagem de pedestres, como mostra a foto.
 ![b1 laje desabando](https://github.com/recreiocanoas/redes/blob/main/img/laje-b1b.jpg?raw=true)
 
-Sendo assim, solicito que sejam sanadas as irregularidades e vícios de procedimento. A administração do CRRC nunca teve e não deveria ter vocação para ser uma empreiteira de engenharia. Favor prestar contas da obra pela qual estamos pagando com  cotas infladas de condomínio.
-
-Inflar a taxa do condomínio não dá direito à administração de gastar mal os recursos em obras de grande porte. 
+Sendo assim, solicito que sejam sanadas as irregularidades e vícios de procedimento. A administração do CRRC nunca teve e não deveria ter vocação para ser uma empreiteira de engenharia. Favor prestar contas da obra pela qual TODOS estamos pagando. Inflar a taxa do condomínio não dá direito à administração de gastar mal os recursos em obras de grande porte. 
 
 At,  
 Jose Motta  
