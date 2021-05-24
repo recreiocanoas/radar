@@ -4,7 +4,7 @@
 
 Caros,
 
-Já passados três meses do início das obras na portaria do condomínio, localizado na Estrada das Canoas, mais uma vez há irregularidades a serem urgentemente sanadas. Os condôminos não podem ser penalizados por ações impróprias da administração do Condomínio que acarretem multas e/ou outras penalidades ao CRRC.
+Já passados três meses do início das obras na portaria do condomínio, mais uma vez informo sobre irregularidades a serem urgentemente sanadas. Os condôminos não podem ser penalizados por ações impróprias da administração do Condomínio que acarretem multas e/ou outras penalidades ao CRRC.
 
 As seguintes irregularidades, abaixo listadas, motivam esta advertência:
 
