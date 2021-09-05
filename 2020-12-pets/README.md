@@ -6,8 +6,6 @@
 
 Segue uma análise sistêmica do **Diagrama do Conflito**, aplicada aos animais domésticos do nosso condomínio.
 
-Seguem características específicas do conflito e fatos relevantes ... (TODO)
-
 ### Diagrama do Conflito
 
 O **Diagrama do Conflito** , situação muito comum no meio empresarial, quando um problema causado por um conflito parece, a princípio, de impossível solução. A dificuldade fica sempre em se decidir qual dos dois lados do conflito deve ser favorecido. Ficar em cima do muro não costuma agradar a nenhum dos lados. É como se houvesse uma nuvem negra pairando sobre nossas cabeças o tempo todo.
